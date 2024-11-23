@@ -36,3 +36,17 @@ def visualizar_categoricas(dataframe,lista_cols_categoricas,variable_respuesta,t
     if num_filas % 2 != 0:
         fig.delaxes(axes[-1])   
     plt.tight_layout()
+
+
+def boxplot_scaler(df,columnas_plotear,scaler="Scaler",grafica_size = (15, 10)):
+    num_filas = math.ceil(len(columnas_plotear)/2)
+    fig , axes = plt.subplots(nrows=num_filas , ncols=2, figsize = grafica_size)
+    axes = axes.flat
+    for indice, columna in enumerate(columnas_plotear):
+        sns.boxplot(x = columna, data = df, ax = axes[indice])
+        axes[indice].set_title(f"{scaler} {columna}")
+    
+    if num_filas % 2 != 0:
+        fig.delaxes(axes[-1])   
+
+    plt.tight_layout()
