@@ -1,354 +1,354 @@
-propertyType,price,size,rooms,bathrooms,floor,municipality,hasLift,distancia_centro
-flat,750.0,60.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,750.0,70.0,2 habitaciones,1 aseo,bajos,Clase Alta,no tiene ascensor,Entre 10 y 20 km
-penthouse,400.0,67.0,2 habitaciones,2 aseos,altos,Clase Obrera,no tiene ascensor,Mas de 50 km
-flat,590.0,70.0,3 habitaciones,2 aseos,desconocido,Clase Media,no tiene ascensor,Mas de 50 km
-studio,684.0,45.0,sin habitaciones,1 aseo,desconocido,Clase Media-Alta,desconocido,Entre 10 y 20 km
-flat,600.0,73.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 30 y 40 km
-duplex,600.0,71.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 40 y 50 km
-flat,550.0,53.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-studio,700.0,28.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-duplex,700.0,86.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 30 y 40 km
-flat,700.0,45.0,1 habitacion,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,550.0,54.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 20 y 30 km
-flat,695.0,64.0,2 habitaciones,1 aseo,bajos,Clase Alta,no tiene ascensor,Entre 10 y 20 km
-flat,650.0,68.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 40 y 50 km
-flat,700.0,30.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,700.0,35.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,700.0,43.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,650.0,60.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-chalet,650.0,206.0,3 habitaciones,1 aseo,desconocido,Clase Obrera,desconocido,Entre 40 y 50 km
-flat,700.0,105.0,3 habitaciones,2 aseos,bajos,Clase Media,no tiene ascensor,Entre 40 y 50 km
-flat,695.0,40.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,675.0,40.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 20 y 30 km
-studio,750.0,45.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,750.0,99.0,3 habitaciones,2 aseos,bajos,Clase Media,tiene ascensor,Entre 40 y 50 km
-flat,680.0,38.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,750.0,51.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-penthouse,750.0,60.0,1 habitacion,1 aseo,altos,Clase Alta,no tiene ascensor,Entre 20 y 30 km
-studio,750.0,25.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Menos de 1 km
-flat,750.0,40.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,650.0,62.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-studio,750.0,30.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Menos de 1 km
-flat,750.0,39.0,1 habitacion,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,700.0,62.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,747.0,96.0,3 habitaciones,2 aseos,bajos,Clase Media,tiene ascensor,Entre 20 y 30 km
-studio,640.0,35.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,750.0,30.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,750.0,70.0,2 habitaciones,1 aseo,altos,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,625.0,52.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 40 y 50 km
-studio,700.0,40.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-studio,750.0,40.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,650.0,35.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,720.0,70.0,3 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 20 y 30 km
-flat,699.0,52.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,750.0,65.0,2 habitaciones,1 aseo,desconocido,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,695.0,65.0,2 habitaciones,1 aseo,desconocido,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,750.0,78.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,620.0,60.0,2 habitaciones,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-studio,500.0,28.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Menos de 1 km
-flat,550.0,38.0,1 habitacion,1 aseo,desconocido,Clase Media,no tiene ascensor,Entre 10 y 20 km
-flat,750.0,46.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-studio,680.0,55.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,700.0,50.0,1 habitacion,2 aseos,desconocido,Clase Media,desconocido,Entre 30 y 40 km
-duplex,750.0,35.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,desconocido,Entre 1 y 5 km
-flat,750.0,66.0,2 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,650.0,65.0,1 habitacion,1 aseo,bajos,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,720.0,133.0,3 habitaciones,2 aseos,bajos,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,600.0,50.0,1 habitacion,1 aseo,desconocido,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,650.0,61.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor,Entre 30 y 40 km
-flat,650.0,65.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 10 y 20 km
-flat,700.0,45.0,1 habitacion,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 10 y 20 km
-flat,625.0,62.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 10 y 20 km
-flat,595.0,45.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,650.0,55.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-flat,725.0,50.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,750.0,95.0,3 habitaciones,1 aseo,altos,Clase Media,tiene ascensor,Entre 20 y 30 km
-penthouse,700.0,30.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-flat,700.0,27.0,1 habitacion,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,650.0,59.0,2 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor,Entre 30 y 40 km
-flat,550.0,40.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-flat,650.0,55.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-flat,750.0,65.0,2 habitaciones,1 aseo,desconocido,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,725.0,70.0,2 habitaciones,1 aseo,desconocido,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,700.0,80.0,1 habitacion,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 20 y 30 km
-flat,650.0,40.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-flat,695.0,90.0,3 habitaciones,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,750.0,55.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,650.0,65.0,2 habitaciones,1 aseo,desconocido,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,666.0,70.0,1 habitacion,2 aseos,bajos,Clase Media-Alta,tiene ascensor,Entre 20 y 30 km
-flat,750.0,78.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,630.0,74.0,3 habitaciones,1 aseo,desconocido,Clase Media,tiene ascensor,Entre 30 y 40 km
-studio,635.0,55.0,sin habitaciones,1 aseo,altos,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,725.0,69.0,2 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor,Entre 30 y 40 km
-flat,750.0,35.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Menos de 1 km
-flat,690.0,65.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-studio,700.0,30.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,730.0,64.0,3 habitaciones,1 aseo,bajos,Clase Obrera,no tiene ascensor,Entre 20 y 30 km
-flat,750.0,51.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,750.0,48.0,1 habitacion,1 aseo,altos,Clase Alta,tiene ascensor,Entre 20 y 30 km
-flat,690.0,35.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,750.0,74.0,3 habitaciones,1 aseo,altos,Clase Media,tiene ascensor,Entre 10 y 20 km
-duplex,700.0,35.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Menos de 1 km
-flat,720.0,42.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,595.0,55.0,1 habitacion,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 20 y 30 km
-flat,700.0,45.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,500.0,45.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor,Entre 30 y 40 km
-flat,700.0,75.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 40 y 50 km
-duplex,675.0,87.0,2 habitaciones,2 aseos,altos,Clase Media-Alta,no tiene ascensor,Entre 40 y 50 km
-flat,650.0,45.0,1 habitacion,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 30 y 40 km
-studio,750.0,55.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Menos de 1 km
-studio,720.0,45.0,sin habitaciones,1 aseo,altos,Clase Alta,tiene ascensor,Entre 10 y 20 km
-flat,624.0,45.0,1 habitacion,1 aseo,desconocido,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,633.0,45.0,1 habitacion,1 aseo,desconocido,Clase Media,tiene ascensor,Entre 20 y 30 km
-studio,640.0,33.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-flat,645.0,84.0,2 habitaciones,2 aseos,altos,Clase Media,tiene ascensor,Entre 40 y 50 km
-flat,750.0,46.0,1 habitacion,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-studio,735.0,35.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-flat,600.0,55.0,1 habitacion,1 aseo,desconocido,Clase Media,desconocido,Entre 20 y 30 km
-flat,750.0,75.0,3 habitaciones,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-penthouse,600.0,25.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Menos de 1 km
-flat,705.0,48.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-flat,650.0,62.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 40 y 50 km
-duplex,700.0,61.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 20 y 30 km
-studio,650.0,40.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,700.0,40.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,730.0,51.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,750.0,50.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,680.0,56.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 10 y 20 km
-flat,710.0,78.0,3 habitaciones,1 aseo,altos,Clase Obrera,no tiene ascensor,Entre 20 y 30 km
-flat,720.0,47.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-studio,750.0,43.0,sin habitaciones,1 aseo,desconocido,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-studio,695.0,40.0,sin habitaciones,1 aseo,desconocido,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-flat,630.0,54.0,1 habitacion,2 aseos,desconocido,Clase Media,desconocido,Entre 30 y 40 km
-flat,750.0,90.0,3 habitaciones,1 aseo,desconocido,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,730.0,50.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,600.0,90.0,3 habitaciones,1 aseo,desconocido,Clase Media,tiene ascensor,Entre 20 y 30 km
-studio,650.0,45.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,750.0,38.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Menos de 1 km
-flat,730.0,50.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-studio,735.0,30.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-flat,610.0,72.0,1 habitacion,1 aseo,bajos,Clase Media,tiene ascensor,Entre 10 y 20 km
-chalet,580.0,54.0,3 habitaciones,2 aseos,desconocido,Clase Media,desconocido,Entre 30 y 40 km
-flat,725.0,50.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 20 y 30 km
-flat,750.0,48.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,750.0,70.0,3 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 20 y 30 km
-flat,750.0,49.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,730.0,60.0,3 habitaciones,1 aseo,altos,Clase Obrera,no tiene ascensor,Entre 20 y 30 km
-flat,560.0,26.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Menos de 1 km
-studio,700.0,23.0,sin habitaciones,1 aseo,desconocido,Clase Media-Alta,desconocido,Entre 1 y 5 km
-flat,750.0,80.0,3 habitaciones,1 aseo,altos,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,730.0,70.0,3 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 10 y 20 km
-flat,730.0,52.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,740.0,64.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,720.0,65.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,720.0,63.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 10 y 20 km
-flat,740.0,54.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,720.0,52.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 10 y 20 km
-flat,730.0,45.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-duplex,600.0,80.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,desconocido,Entre 5 y 10 km
-duplex,600.0,80.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,desconocido,Entre 5 y 10 km
-duplex,725.0,71.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 20 y 30 km
-flat,675.0,76.0,3 habitaciones,1 aseo,altos,Clase Obrera,no tiene ascensor,Entre 40 y 50 km
-flat,750.0,54.0,1 habitacion,1 aseo,altos,Clase Alta,tiene ascensor,Entre 10 y 20 km
-duplex,750.0,79.0,2 habitaciones,2 aseos,bajos,Clase Media,no tiene ascensor,Entre 30 y 40 km
-flat,700.0,54.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,750.0,54.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,730.0,48.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,650.0,61.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 20 y 30 km
-flat,730.0,63.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,720.0,50.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,720.0,51.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,750.0,47.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,730.0,50.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,730.0,40.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,670.0,67.0,2 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,740.0,52.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,720.0,69.0,2 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,750.0,59.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,740.0,45.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,740.0,60.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-studio,730.0,45.0,sin habitaciones,1 aseo,desconocido,Clase Media-Alta,tiene ascensor,Menos de 1 km
-flat,620.0,75.0,3 habitaciones,1 aseo,desconocido,Clase Obrera,tiene ascensor,Entre 20 y 30 km
-flat,695.0,67.0,2 habitaciones,1 aseo,desconocido,Clase Media,no tiene ascensor,Entre 10 y 20 km
-flat,650.0,95.0,3 habitaciones,1 aseo,desconocido,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,675.0,68.0,2 habitaciones,1 aseo,desconocido,Clase Media,tiene ascensor,Entre 30 y 40 km
-flat,695.0,65.0,2 habitaciones,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,750.0,111.0,2 habitaciones,2 aseos,altos,Clase Obrera,tiene ascensor,Entre 20 y 30 km
-flat,675.0,35.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,desconocido,Entre 1 y 5 km
-flat,730.0,60.0,3 habitaciones,1 aseo,altos,Clase Obrera,no tiene ascensor,Entre 20 y 30 km
-flat,690.0,85.0,2 habitaciones,1 aseo,desconocido,Clase Obrera,tiene ascensor,Entre 20 y 30 km
-flat,750.0,45.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-studio,600.0,32.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-studio,723.0,25.0,sin habitaciones,1 aseo,desconocido,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-flat,725.0,50.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-flat,750.0,67.0,3 habitaciones,1 aseo,desconocido,Clase Media,desconocido,Entre 10 y 20 km
-flat,600.0,45.0,2 habitaciones,1 aseo,desconocido,Clase Media,desconocido,Entre 40 y 50 km
-flat,750.0,70.0,3 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 10 y 20 km
-penthouse,450.0,60.0,1 habitacion,1 aseo,desconocido,Clase Media,no tiene ascensor,Mas de 50 km
-flat,720.0,54.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-penthouse,550.0,75.0,2 habitaciones,2 aseos,desconocido,Clase Media,no tiene ascensor,Mas de 50 km
-flat,720.0,49.0,3 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,740.0,65.0,3 habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,660.0,155.0,3 habitaciones,2 aseos,desconocido,Clase Media,desconocido,Entre 40 y 50 km
-flat,720.0,56.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,650.0,31.0,1 habitacion,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,650.0,96.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 40 y 50 km
-flat,660.0,168.0,4 habitaciones,2 aseos,altos,Clase Media,tiene ascensor,Entre 40 y 50 km
-flat,690.0,64.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 30 y 40 km
-studio,750.0,25.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,725.0,45.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-flat,620.0,85.0,1 habitacion,1 aseo,bajos,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,590.0,52.0,1 habitacion,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 40 y 50 km
-penthouse,750.0,80.0,sin habitaciones,1 aseo,bajos,Clase Alta,tiene ascensor,Entre 20 y 30 km
-studio,720.0,36.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,700.0,82.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 40 y 50 km
-flat,692.0,83.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,670.0,79.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,609.0,56.0,1 habitacion,1 aseo,bajos,Clase Media,tiene ascensor,Entre 30 y 40 km
-flat,718.0,86.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,694.0,81.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,658.0,78.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,750.0,36.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,723.0,88.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,728.0,91.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor,Entre 20 y 30 km
-studio,650.0,28.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,750.0,60.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 20 y 30 km
-flat,735.0,60.0,3 habitaciones,1 aseo,altos,Clase Obrera,no tiene ascensor,Entre 20 y 30 km
-penthouse,699.0,78.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 20 y 30 km
-flat,725.0,67.0,3 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 10 y 20 km
-flat,740.0,77.0,3 habitaciones,2 aseos,bajos,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,720.0,73.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor,Entre 30 y 40 km
-flat,750.0,79.0,3 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,710.0,66.0,3 habitaciones,1 aseo,altos,Clase Obrera,no tiene ascensor,Entre 20 y 30 km
-flat,725.0,62.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,750.0,46.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,750.0,61.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,730.0,161.0,4 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 40 y 50 km
-flat,720.0,110.0,2 habitaciones,1 aseo,desconocido,Clase Obrera,tiene ascensor,Entre 20 y 30 km
-flat,720.0,48.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,700.0,57.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-duplex,750.0,75.0,2 habitaciones,2 aseos,bajos,Clase Media,no tiene ascensor,Entre 20 y 30 km
-studio,610.0,26.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,740.0,52.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 10 y 20 km
-flat,715.0,62.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 20 y 30 km
-flat,550.0,57.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 40 y 50 km
-flat,710.0,36.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,730.0,51.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-studio,750.0,23.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,690.0,33.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,740.0,73.0,3 habitaciones,1 aseo,altos,Clase Obrera,tiene ascensor,Entre 20 y 30 km
-duplex,750.0,66.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,720.0,44.0,3 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,475.0,79.0,2 habitaciones,2 aseos,altos,Clase Media,tiene ascensor,Entre 40 y 50 km
-flat,740.0,41.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,740.0,57.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,740.0,62.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 20 y 30 km
-flat,700.0,74.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 5 y 10 km
-flat,730.0,35.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Menos de 1 km
-studio,700.0,28.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-chalet,600.0,180.0,3 habitaciones,2 aseos,desconocido,Clase Media,desconocido,Entre 30 y 40 km
-flat,750.0,109.0,2 habitaciones,2 aseos,altos,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,749.0,38.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-studio,700.0,30.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,667.0,70.0,1 habitacion,1 aseo,altos,Clase Obrera,tiene ascensor,Entre 20 y 30 km
-flat,725.0,45.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-penthouse,550.0,70.0,3 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 40 y 50 km
-flat,695.0,55.0,3 habitaciones,1 aseo,altos,Clase Obrera,no tiene ascensor,Entre 10 y 20 km
-flat,750.0,105.0,3 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 20 y 30 km
-flat,699.0,52.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-studio,750.0,32.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,730.0,80.0,3 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 30 y 40 km
-flat,710.0,30.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,650.0,58.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-countryHouse,600.0,60.0,2 habitaciones,2 aseos,desconocido,Clase Alta,desconocido,Entre 20 y 30 km
-flat,740.0,41.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,525.0,40.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor,Entre 40 y 50 km
-studio,750.0,35.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,750.0,74.0,3 habitaciones,1 aseo,altos,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,710.0,69.0,3 habitaciones,1 aseo,altos,Clase Media,tiene ascensor,Entre 20 y 30 km
-studio,560.0,46.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,600.0,42.0,1 habitacion,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 10 y 20 km
-flat,720.0,44.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,750.0,60.0,2 habitaciones,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,750.0,42.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-studio,750.0,90.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-studio,650.0,45.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,650.0,59.0,1 habitacion,1 aseo,altos,Clase Obrera,tiene ascensor,Entre 20 y 30 km
-flat,670.0,75.0,2 habitaciones,1 aseo,altos,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,650.0,45.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,750.0,32.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,725.0,50.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,desconocido,Entre 5 y 10 km
-studio,620.0,20.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,680.0,35.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,750.0,87.0,3 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,670.0,53.0,1 habitacion,1 aseo,bajos,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,600.0,75.0,3 habitaciones,1 aseo,desconocido,Clase Media,desconocido,Entre 20 y 30 km
-flat,750.0,70.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 10 y 20 km
-flat,700.0,36.0,2 habitaciones,1 aseo,altos,Clase Alta,no tiene ascensor,Entre 5 y 10 km
-flat,695.0,58.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,710.0,66.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,620.0,80.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor,Entre 40 y 50 km
-flat,700.0,80.0,3 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 40 y 50 km
-flat,715.0,89.0,3 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 30 y 40 km
-flat,750.0,50.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 10 y 20 km
-flat,750.0,45.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-studio,550.0,25.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,730.0,60.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor,Entre 20 y 30 km
-penthouse,750.0,46.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,700.0,45.0,1 habitacion,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 10 y 20 km
-flat,680.0,85.0,2 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,600.0,28.0,1 habitacion,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,750.0,80.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 30 y 40 km
-flat,700.0,62.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,690.0,77.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,700.0,50.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,750.0,87.0,2 habitaciones,1 aseo,altos,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,735.0,51.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,700.0,80.0,3 habitaciones,1 aseo,altos,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,725.0,75.0,3 habitaciones,1 aseo,desconocido,Clase Media,no tiene ascensor,Entre 10 y 20 km
-flat,733.0,68.4,2 habitaciones,1 aseo,altos,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,750.0,36.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,675.0,69.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,650.0,85.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 40 y 50 km
-flat,730.0,52.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,700.0,97.0,1 habitacion,1 aseo,bajos,Clase Media,tiene ascensor,Entre 20 y 30 km
-studio,690.0,38.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,700.0,70.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 40 y 50 km
-duplex,600.0,89.0,2 habitaciones,2 aseos,altos,Clase Media-Alta,no tiene ascensor,Entre 40 y 50 km
-studio,700.0,25.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Menos de 1 km
-flat,690.0,60.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 20 y 30 km
-duplex,750.0,114.0,3 habitaciones,3 aseos,bajos,Clase Media,no tiene ascensor,Entre 20 y 30 km
-studio,700.0,51.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,670.0,61.0,1 habitacion,1 aseo,bajos,Clase Media,tiene ascensor,Entre 30 y 40 km
-flat,750.0,80.0,2 habitaciones,1 aseo,altos,Clase Media,tiene ascensor,Entre 20 y 30 km
-studio,740.0,33.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,750.0,110.0,4 habitaciones,2 aseos,bajos,Clase Media-Alta,no tiene ascensor,Entre 20 y 30 km
-flat,750.0,62.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-studio,750.0,70.0,sin habitaciones,1 aseo,bajos,Clase Alta,tiene ascensor,Entre 10 y 20 km
-studio,650.0,28.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-flat,625.0,51.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,700.0,35.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,750.0,95.0,2 habitaciones,2 aseos,bajos,Clase Media-Alta,no tiene ascensor,Entre 30 y 40 km
-studio,600.0,25.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 1 y 5 km
-flat,750.0,89.0,2 habitaciones,2 aseos,altos,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,700.0,55.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 30 y 40 km
-flat,750.0,90.0,3 habitaciones,2 aseos,altos,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,750.0,48.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,625.0,57.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 40 y 50 km
-flat,750.0,46.0,1 habitacion,1 aseo,bajos,Clase Alta,no tiene ascensor,Entre 10 y 20 km
-flat,695.0,59.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,450.0,40.0,1 habitacion,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 40 y 50 km
-flat,720.0,58.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 10 y 20 km
-flat,745.0,73.0,2 habitaciones,1 aseo,altos,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,720.0,69.6,2 habitaciones,1 aseo,altos,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,750.0,55.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor,Entre 5 y 10 km
-studio,720.0,48.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-studio,725.0,44.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 1 y 5 km
-flat,750.0,80.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,550.0,86.0,2 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor,Entre 40 y 50 km
-flat,640.0,69.0,2 habitaciones,1 aseo,altos,Clase Media,tiene ascensor,Entre 20 y 30 km
-flat,700.0,54.0,1 habitacion,1 aseo,bajos,Clase Media,tiene ascensor,Entre 10 y 20 km
-flat,700.0,59.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor,Entre 5 y 10 km
-flat,700.0,75.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor,Entre 30 y 40 km
-flat,695.0,62.0,2 habitaciones,1 aseo,altos,Clase Alta,no tiene ascensor,Entre 10 y 20 km
+price,size,rooms,bathrooms,floor,municipality,hasLift
+750.0,60.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+750.0,70.0,2 habitaciones,1 aseo,bajos,Clase Alta,no tiene ascensor
+400.0,67.0,2 habitaciones,2 aseos,altos,Clase Obrera,tiene ascensor
+590.0,70.0,3 habitaciones,2 aseos,desconocido,Clase Media,no tiene ascensor
+684.0,45.0,sin habitaciones,1 aseo,desconocido,Clase Media-Alta,desconocido
+600.0,73.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+600.0,71.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+550.0,53.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+700.0,28.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+700.0,86.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+700.0,45.0,1 habitacion,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+550.0,54.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor
+695.0,64.0,2 habitaciones,1 aseo,bajos,Clase Alta,no tiene ascensor
+650.0,68.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+700.0,30.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+700.0,35.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+700.0,43.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+650.0,60.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+650.0,206.0,3 habitaciones,1 aseo,bajos,Clase Obrera,no tiene ascensor
+700.0,105.0,3 habitaciones,2 aseos,bajos,Clase Media,no tiene ascensor
+695.0,40.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+675.0,40.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+750.0,45.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+750.0,99.0,3 habitaciones,2 aseos,bajos,Clase Media,tiene ascensor
+680.0,38.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+750.0,51.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+750.0,60.0,1 habitacion,1 aseo,altos,Clase Alta,tiene ascensor
+750.0,25.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+750.0,40.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+650.0,62.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+750.0,30.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+750.0,39.0,1 habitacion,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+700.0,62.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+747.0,96.0,3 habitaciones,2 aseos,bajos,Clase Media,tiene ascensor
+640.0,35.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+750.0,30.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+750.0,70.0,2 habitaciones,1 aseo,altos,Clase Media,tiene ascensor
+625.0,52.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+700.0,40.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+750.0,40.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+650.0,35.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+720.0,70.0,3 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+699.0,52.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+750.0,65.0,2 habitaciones,1 aseo,desconocido,Clase Media,tiene ascensor
+695.0,65.0,2 habitaciones,1 aseo,desconocido,Clase Media,tiene ascensor
+750.0,78.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor
+620.0,60.0,2 habitaciones,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor
+500.0,28.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+550.0,38.0,1 habitacion,1 aseo,desconocido,Clase Media,no tiene ascensor
+750.0,46.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+680.0,55.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+700.0,50.0,1 habitacion,2 aseos,desconocido,Clase Media,desconocido
+750.0,35.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+750.0,66.0,2 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor
+650.0,65.0,1 habitacion,1 aseo,bajos,Clase Media,tiene ascensor
+720.0,133.0,3 habitaciones,2 aseos,bajos,Clase Media,tiene ascensor
+600.0,50.0,1 habitacion,1 aseo,desconocido,Clase Media,tiene ascensor
+650.0,61.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor
+650.0,65.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+700.0,45.0,1 habitacion,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+625.0,62.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor
+595.0,45.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+650.0,55.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+725.0,50.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+750.0,95.0,3 habitaciones,1 aseo,altos,Clase Media,tiene ascensor
+700.0,30.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+700.0,27.0,1 habitacion,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+650.0,59.0,2 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor
+550.0,40.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+650.0,55.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+750.0,65.0,2 habitaciones,1 aseo,desconocido,Clase Media-Alta,tiene ascensor
+725.0,70.0,2 habitaciones,1 aseo,desconocido,Clase Media-Alta,tiene ascensor
+700.0,80.0,1 habitacion,1 aseo,bajos,Clase Media,no tiene ascensor
+650.0,40.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+695.0,90.0,3 habitaciones,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor
+750.0,55.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor
+650.0,65.0,2 habitaciones,1 aseo,desconocido,Clase Media-Alta,tiene ascensor
+666.0,70.0,1 habitacion,2 aseos,bajos,Clase Media-Alta,tiene ascensor
+750.0,78.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor
+630.0,74.0,3 habitaciones,1 aseo,desconocido,Clase Media,tiene ascensor
+635.0,55.0,sin habitaciones,1 aseo,altos,Clase Media,tiene ascensor
+725.0,69.0,2 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor
+750.0,35.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+690.0,65.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+700.0,30.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+730.0,64.0,3 habitaciones,1 aseo,bajos,Clase Obrera,no tiene ascensor
+750.0,51.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+750.0,48.0,1 habitacion,1 aseo,altos,Clase Alta,tiene ascensor
+690.0,35.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor
+750.0,74.0,3 habitaciones,1 aseo,altos,Clase Media,tiene ascensor
+700.0,35.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+720.0,42.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+595.0,55.0,1 habitacion,1 aseo,bajos,Clase Media,no tiene ascensor
+700.0,45.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+500.0,45.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor
+700.0,75.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor
+675.0,87.0,2 habitaciones,2 aseos,bajos,Clase Media-Alta,no tiene ascensor
+650.0,45.0,1 habitacion,1 aseo,bajos,Clase Media,no tiene ascensor
+750.0,55.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+720.0,45.0,sin habitaciones,1 aseo,altos,Clase Alta,tiene ascensor
+624.0,45.0,1 habitacion,1 aseo,desconocido,Clase Media,tiene ascensor
+633.0,45.0,1 habitacion,1 aseo,desconocido,Clase Media,tiene ascensor
+640.0,33.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+645.0,84.0,2 habitaciones,2 aseos,altos,Clase Media,tiene ascensor
+750.0,46.0,1 habitacion,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+735.0,35.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+600.0,55.0,1 habitacion,1 aseo,desconocido,Clase Media,desconocido
+750.0,75.0,3 habitaciones,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor
+600.0,25.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+705.0,48.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+650.0,62.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+700.0,61.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor
+650.0,40.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+700.0,40.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+730.0,51.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+750.0,50.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+680.0,56.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+710.0,78.0,3 habitaciones,1 aseo,altos,Clase Obrera,no tiene ascensor
+720.0,47.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+750.0,43.0,sin habitaciones,1 aseo,desconocido,Clase Media-Alta,tiene ascensor
+695.0,40.0,sin habitaciones,1 aseo,desconocido,Clase Media-Alta,tiene ascensor
+630.0,54.0,1 habitacion,2 aseos,desconocido,Clase Media,desconocido
+750.0,90.0,3 habitaciones,1 aseo,desconocido,Clase Media,tiene ascensor
+730.0,50.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+600.0,90.0,3 habitaciones,1 aseo,desconocido,Clase Media,tiene ascensor
+650.0,45.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+750.0,38.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+730.0,50.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,tiene ascensor
+735.0,30.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+610.0,72.0,1 habitacion,1 aseo,bajos,Clase Media,tiene ascensor
+580.0,54.0,3 habitaciones,2 aseos,bajos,Clase Media,no tiene ascensor
+725.0,50.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+750.0,48.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+750.0,70.0,3 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+750.0,49.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+730.0,60.0,3 habitaciones,1 aseo,altos,Clase Obrera,no tiene ascensor
+560.0,26.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+700.0,23.0,sin habitaciones,1 aseo,desconocido,Clase Media-Alta,desconocido
+750.0,80.0,3 habitaciones,1 aseo,altos,Clase Media,tiene ascensor
+730.0,70.0,3 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+730.0,52.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+740.0,64.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+720.0,65.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+720.0,63.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+740.0,54.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+720.0,52.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+730.0,45.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+600.0,80.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+600.0,80.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+725.0,71.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor
+675.0,76.0,3 habitaciones,1 aseo,altos,Clase Obrera,no tiene ascensor
+750.0,54.0,1 habitacion,1 aseo,altos,Clase Alta,tiene ascensor
+750.0,79.0,2 habitaciones,2 aseos,bajos,Clase Media,no tiene ascensor
+700.0,54.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+750.0,54.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+730.0,48.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+650.0,61.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+730.0,63.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+720.0,50.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+720.0,51.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+750.0,47.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+730.0,50.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+730.0,40.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+670.0,67.0,2 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor
+740.0,52.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+720.0,69.0,2 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor
+750.0,59.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+740.0,45.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+740.0,60.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+730.0,45.0,sin habitaciones,1 aseo,desconocido,Clase Media-Alta,tiene ascensor
+620.0,75.0,3 habitaciones,1 aseo,desconocido,Clase Obrera,tiene ascensor
+695.0,67.0,2 habitaciones,1 aseo,desconocido,Clase Media,no tiene ascensor
+650.0,95.0,3 habitaciones,1 aseo,desconocido,Clase Media,tiene ascensor
+675.0,68.0,2 habitaciones,1 aseo,desconocido,Clase Media,tiene ascensor
+695.0,65.0,2 habitaciones,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor
+750.0,111.0,2 habitaciones,2 aseos,altos,Clase Obrera,tiene ascensor
+675.0,35.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,desconocido
+730.0,60.0,3 habitaciones,1 aseo,altos,Clase Obrera,no tiene ascensor
+690.0,85.0,2 habitaciones,1 aseo,desconocido,Clase Obrera,tiene ascensor
+750.0,45.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+600.0,32.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+723.0,25.0,sin habitaciones,1 aseo,desconocido,Clase Media-Alta,tiene ascensor
+725.0,50.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+750.0,67.0,3 habitaciones,1 aseo,desconocido,Clase Media,desconocido
+600.0,45.0,2 habitaciones,1 aseo,desconocido,Clase Media,desconocido
+750.0,70.0,3 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+450.0,60.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor
+720.0,54.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+550.0,75.0,2 habitaciones,2 aseos,altos,Clase Media,tiene ascensor
+720.0,49.0,3 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+740.0,65.0,3 habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+660.0,155.0,3 habitaciones,2 aseos,desconocido,Clase Media,desconocido
+720.0,56.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+650.0,31.0,1 habitacion,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+650.0,96.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+660.0,168.0,4 habitaciones,2 aseos,altos,Clase Media,tiene ascensor
+690.0,64.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor
+750.0,25.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+725.0,45.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+620.0,85.0,1 habitacion,1 aseo,bajos,Clase Media,tiene ascensor
+590.0,52.0,1 habitacion,1 aseo,bajos,Clase Media,no tiene ascensor
+750.0,80.0,sin habitaciones,1 aseo,altos,Clase Alta,tiene ascensor
+720.0,36.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+700.0,82.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+692.0,83.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor
+670.0,79.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor
+609.0,56.0,1 habitacion,1 aseo,bajos,Clase Media,tiene ascensor
+718.0,86.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor
+694.0,81.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor
+658.0,78.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor
+750.0,36.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+723.0,88.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor
+728.0,91.0,2 habitaciones,2 aseos,desconocido,Clase Media,tiene ascensor
+650.0,28.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+750.0,60.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor
+735.0,60.0,3 habitaciones,1 aseo,altos,Clase Obrera,no tiene ascensor
+699.0,78.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+725.0,67.0,3 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+740.0,77.0,3 habitaciones,2 aseos,bajos,Clase Media,tiene ascensor
+720.0,73.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor
+750.0,79.0,3 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor
+710.0,66.0,3 habitaciones,1 aseo,altos,Clase Obrera,no tiene ascensor
+725.0,62.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+750.0,46.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+750.0,61.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+730.0,161.0,4 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+720.0,110.0,2 habitaciones,1 aseo,desconocido,Clase Obrera,tiene ascensor
+720.0,48.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+700.0,57.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+750.0,75.0,2 habitaciones,2 aseos,bajos,Clase Media,no tiene ascensor
+610.0,26.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+740.0,52.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+715.0,62.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+550.0,57.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor
+710.0,36.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+730.0,51.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+750.0,23.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+690.0,33.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+740.0,73.0,3 habitaciones,1 aseo,altos,Clase Obrera,tiene ascensor
+750.0,66.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+720.0,44.0,3 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+475.0,79.0,2 habitaciones,2 aseos,altos,Clase Media,tiene ascensor
+740.0,41.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+740.0,57.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+740.0,62.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+700.0,74.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+730.0,35.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+700.0,28.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+600.0,180.0,3 habitaciones,2 aseos,bajos,Clase Media,no tiene ascensor
+750.0,109.0,2 habitaciones,2 aseos,altos,Clase Media,tiene ascensor
+749.0,38.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+700.0,30.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+667.0,70.0,1 habitacion,1 aseo,altos,Clase Obrera,tiene ascensor
+725.0,45.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+550.0,70.0,3 habitaciones,1 aseo,altos,Clase Media,tiene ascensor
+695.0,55.0,3 habitaciones,1 aseo,altos,Clase Obrera,no tiene ascensor
+750.0,105.0,3 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor
+699.0,52.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+750.0,32.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+730.0,80.0,3 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+710.0,30.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+650.0,58.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+600.0,60.0,2 habitaciones,2 aseos,bajos,Clase Alta,no tiene ascensor
+740.0,41.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+525.0,40.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor
+750.0,35.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+750.0,74.0,3 habitaciones,1 aseo,altos,Clase Media,tiene ascensor
+710.0,69.0,3 habitaciones,1 aseo,altos,Clase Media,tiene ascensor
+560.0,46.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+600.0,42.0,1 habitacion,1 aseo,bajos,Clase Media,no tiene ascensor
+720.0,44.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+750.0,60.0,2 habitaciones,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor
+750.0,42.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+750.0,90.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+650.0,45.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+650.0,59.0,1 habitacion,1 aseo,altos,Clase Obrera,tiene ascensor
+670.0,75.0,2 habitaciones,1 aseo,altos,Clase Media,tiene ascensor
+650.0,45.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor
+750.0,32.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+725.0,50.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,desconocido
+620.0,20.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+680.0,35.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+750.0,87.0,3 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor
+670.0,53.0,1 habitacion,1 aseo,bajos,Clase Media,tiene ascensor
+600.0,75.0,3 habitaciones,1 aseo,desconocido,Clase Media,desconocido
+750.0,70.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+700.0,36.0,2 habitaciones,1 aseo,altos,Clase Alta,no tiene ascensor
+695.0,58.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+710.0,66.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor
+620.0,80.0,2 habitaciones,1 aseo,altos,Clase Media,no tiene ascensor
+700.0,80.0,3 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor
+715.0,89.0,3 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor
+750.0,50.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+750.0,45.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+550.0,25.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+730.0,60.0,1 habitacion,1 aseo,desconocido,Clase Media-Alta,no tiene ascensor
+750.0,46.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+700.0,45.0,1 habitacion,1 aseo,bajos,Clase Media,no tiene ascensor
+680.0,85.0,2 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor
+600.0,28.0,1 habitacion,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+750.0,80.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+700.0,62.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor
+690.0,77.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+700.0,50.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+750.0,87.0,2 habitaciones,1 aseo,altos,Clase Media,tiene ascensor
+735.0,51.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor
+700.0,80.0,3 habitaciones,1 aseo,altos,Clase Media,tiene ascensor
+725.0,75.0,3 habitaciones,1 aseo,desconocido,Clase Media,no tiene ascensor
+733.0,68.4,2 habitaciones,1 aseo,altos,Clase Media,tiene ascensor
+750.0,36.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+675.0,69.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+650.0,85.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+730.0,52.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+700.0,97.0,1 habitacion,1 aseo,bajos,Clase Media,tiene ascensor
+690.0,38.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+700.0,70.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+600.0,89.0,2 habitaciones,2 aseos,bajos,Clase Media-Alta,no tiene ascensor
+700.0,25.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+690.0,60.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor
+750.0,114.0,3 habitaciones,3 aseos,bajos,Clase Media,no tiene ascensor
+700.0,51.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+670.0,61.0,1 habitacion,1 aseo,bajos,Clase Media,tiene ascensor
+750.0,80.0,2 habitaciones,1 aseo,altos,Clase Media,tiene ascensor
+740.0,33.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+750.0,110.0,4 habitaciones,2 aseos,bajos,Clase Media-Alta,no tiene ascensor
+750.0,62.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,no tiene ascensor
+750.0,70.0,sin habitaciones,1 aseo,bajos,Clase Alta,tiene ascensor
+650.0,28.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+625.0,51.0,1 habitacion,1 aseo,altos,Clase Media,tiene ascensor
+700.0,35.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+750.0,95.0,2 habitaciones,2 aseos,bajos,Clase Media-Alta,no tiene ascensor
+600.0,25.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+750.0,89.0,2 habitaciones,2 aseos,altos,Clase Media,tiene ascensor
+700.0,55.0,1 habitacion,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+750.0,90.0,3 habitaciones,2 aseos,altos,Clase Media,tiene ascensor
+750.0,48.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+625.0,57.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor
+750.0,46.0,1 habitacion,1 aseo,bajos,Clase Alta,no tiene ascensor
+695.0,59.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+450.0,40.0,1 habitacion,1 aseo,bajos,Clase Media,no tiene ascensor
+720.0,58.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor
+745.0,73.0,2 habitaciones,1 aseo,altos,Clase Media,tiene ascensor
+720.0,69.6,2 habitaciones,1 aseo,altos,Clase Media,tiene ascensor
+750.0,55.0,2 habitaciones,1 aseo,bajos,Clase Media-Alta,no tiene ascensor
+720.0,48.0,sin habitaciones,1 aseo,bajos,Clase Media-Alta,tiene ascensor
+725.0,44.0,sin habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+750.0,80.0,2 habitaciones,1 aseo,altos,Clase Media-Alta,tiene ascensor
+550.0,86.0,2 habitaciones,1 aseo,bajos,Clase Media,tiene ascensor
+640.0,69.0,2 habitaciones,1 aseo,altos,Clase Media,tiene ascensor
+700.0,54.0,1 habitacion,1 aseo,bajos,Clase Media,tiene ascensor
+700.0,59.0,1 habitacion,1 aseo,altos,Clase Media-Alta,tiene ascensor
+700.0,75.0,2 habitaciones,1 aseo,bajos,Clase Media,no tiene ascensor
+695.0,62.0,2 habitaciones,1 aseo,altos,Clase Alta,no tiene ascensor
