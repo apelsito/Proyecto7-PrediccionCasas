@@ -1,443 +1,443 @@
-propertyType,status,price,size,rooms,bathrooms,floor,district,province,municipality,exterior,hasLift,hasPlan,has3DTour,has360,distancia_centro
-chalet,good,550.0,371.0,6 habitaciones,3 aseos,desconocido,desconocido,Toledo,Numancia de la Sagra,vista interior,desconocido,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,750.0,60.0,1 habitacion,1 aseo,tercero,Hortaleza,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,750.0,70.0,2 habitaciones,1 aseo,bajo,Centro Urbano,Madrid,San Sebastián de los Reyes,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-penthouse,good,400.0,67.0,2 habitaciones,2 aseos,segundo,desconocido,Madrid,Villamanrique de Tajo,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,tiene fotos 360,Mas de 50 km
-flat,good,450.0,89.0,2 habitaciones,1 aseo,segundo,desconocido,Toledo,Recas,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,450.0,60.0,2 habitaciones,1 aseo,primero,desconocido,Toledo,Cedillo del Condado,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,590.0,70.0,3 habitaciones,2 aseos,desconocido,desconocido,Madrid,Rascafría,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-studio,desconocido,684.0,45.0,sin habitaciones,1 aseo,desconocido,desconocido,Madrid,Madrid,vista exterior,desconocido,desconocido,desconocido,desconocido,Entre 10 y 20 km
-flat,good,600.0,73.0,2 habitaciones,1 aseo,tercero,desconocido,Madrid,Manzanares el Real,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-duplex,good,600.0,71.0,1 habitacion,1 aseo,primero,desconocido,Madrid,Miraflores de la Sierra,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,550.0,90.0,3 habitaciones,1 aseo,segundo,desconocido,Toledo,El Viso de San Juan,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,550.0,53.0,1 habitacion,1 aseo,primero,Puente de Vallecas,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-studio,good,700.0,28.0,sin habitaciones,1 aseo,primero,Ciudad Lineal,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-duplex,good,700.0,86.0,2 habitaciones,1 aseo,tercero,Casco Antiguo,Madrid,Galapagar,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,700.0,45.0,1 habitacion,1 aseo,quinto,Moncloa,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,550.0,54.0,2 habitaciones,1 aseo,entreplanta,Centro,Madrid,Arganda,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,695.0,64.0,2 habitaciones,1 aseo,primero,Centro Urbano,Madrid,San Sebastián de los Reyes,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,650.0,68.0,2 habitaciones,1 aseo,bajo,Centro - Casco Histórico,Madrid,San Lorenzo de el Escorial,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-penthouse,good,400.0,70.0,2 habitaciones,1 aseo,segundo,desconocido,Toledo,Camarena,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,700.0,30.0,1 habitacion,1 aseo,primero,Retiro,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,700.0,35.0,1 habitacion,1 aseo,primero,Arganzuela,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,700.0,43.0,1 habitacion,1 aseo,segundo,Latina,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,650.0,60.0,2 habitaciones,1 aseo,primero,Puente de Vallecas,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-chalet,good,650.0,206.0,3 habitaciones,1 aseo,desconocido,desconocido,Madrid,Aldea del Fresno,vista interior,desconocido,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,700.0,105.0,3 habitaciones,2 aseos,bajo,Centro,Madrid,Aranjuez,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,695.0,40.0,1 habitacion,1 aseo,cuarto,Barrio de Salamanca,Madrid,Madrid,vista interior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,675.0,40.0,1 habitacion,1 aseo,bajo,Centro,Madrid,Villanueva del Pardillo,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,650.0,100.0,4 habitaciones,1 aseo,tercero,Bulevar - Plaza Castilla,Guadalajara,Azuqueca de Henares,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,500.0,115.0,3 habitaciones,2 aseos,segundo,La Estación,Segovia,El Espinar,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-studio,good,750.0,45.0,sin habitaciones,1 aseo,bajo,Centro,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,750.0,99.0,3 habitaciones,2 aseos,primero,Centro,Madrid,Aranjuez,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,680.0,38.0,1 habitacion,1 aseo,primero,Retiro,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,750.0,51.0,1 habitacion,1 aseo,primero,Barajas,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-penthouse,good,750.0,60.0,1 habitacion,1 aseo,segundo,Las Matas- Peñascales,Madrid,Las Rozas de Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-studio,good,750.0,25.0,sin habitaciones,1 aseo,cuarto,Centro,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Menos de 1 km
-flat,good,750.0,40.0,1 habitacion,1 aseo,primero,Arganzuela,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,750.0,90.0,2 habitaciones,1 aseo,primero,San Roque-Concordia-Adoratrices,Guadalajara,Guadalajara,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,desconocido,750.0,95.0,3 habitaciones,2 aseos,desconocido,desconocido,Toledo,Illescas,vista exterior,desconocido,desconocido,desconocido,desconocido,Entre 30 y 40 km
-flat,good,650.0,62.0,2 habitaciones,1 aseo,primero,Latina,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-studio,good,750.0,30.0,sin habitaciones,1 aseo,tercero,Centro,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Menos de 1 km
-flat,good,750.0,39.0,1 habitacion,1 aseo,quinto,Chamberí,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,700.0,62.0,2 habitaciones,1 aseo,tercero,Villaverde,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,747.0,96.0,3 habitaciones,2 aseos,primero,La Dehesa - El Pinar,Madrid,Navalcarnero,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,730.0,98.0,3 habitaciones,2 aseos,segundo,Seseña Nuevo,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-studio,good,640.0,35.0,sin habitaciones,1 aseo,primero,Villaverde,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,530.0,50.0,2 habitaciones,1 aseo,primero,desconocido,Toledo,Casarrubios del Monte,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,750.0,30.0,1 habitacion,1 aseo,sotano,Retiro,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,750.0,70.0,2 habitaciones,1 aseo,segundo,Reyes Católicos,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,625.0,52.0,2 habitaciones,1 aseo,segundo,Centro,Madrid,El Escorial,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-studio,good,700.0,40.0,sin habitaciones,1 aseo,tercero,Centro,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-studio,good,750.0,40.0,sin habitaciones,1 aseo,entreplanta,Arganzuela,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,650.0,35.0,1 habitacion,1 aseo,segundo,Centro,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,720.0,70.0,3 habitaciones,1 aseo,segundo,Chorrillo,Madrid,Alcalá de Henares,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,650.0,70.0,2 habitaciones,1 aseo,primero,desconocido,Toledo,Calypo Fado,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,699.0,52.0,1 habitacion,1 aseo,tercero,Puente de Vallecas,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,650.0,70.0,2 habitaciones,1 aseo,primero,desconocido,Toledo,Calypo Fado,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,750.0,65.0,2 habitaciones,1 aseo,desconocido,Valdepelayo - Montepinos - Arroyo Culebro,Madrid,Leganés,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,695.0,65.0,2 habitaciones,1 aseo,desconocido,Valleaguado - La Cañada,Madrid,Coslada,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,750.0,78.0,2 habitaciones,2 aseos,desconocido,Suroeste,Madrid,Torrejón de Ardoz,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,620.0,60.0,2 habitaciones,1 aseo,desconocido,Villaverde,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-studio,good,500.0,28.0,sin habitaciones,1 aseo,primero,Centro,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Menos de 1 km
-flat,good,550.0,38.0,1 habitacion,1 aseo,desconocido,Centro,Madrid,Leganés,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,750.0,46.0,1 habitacion,1 aseo,tercero,Arganzuela,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-studio,good,680.0,55.0,sin habitaciones,1 aseo,bajo,Ciudad Lineal,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-chalet,good,750.0,130.0,4 habitaciones,1 aseo,desconocido,desconocido,Guadalajara,Marchamalo,vista interior,desconocido,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,550.0,70.0,1 habitacion,1 aseo,tercero,San Roque-Concordia-Adoratrices,Guadalajara,Guadalajara,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,desconocido,700.0,50.0,1 habitacion,2 aseos,desconocido,desconocido,Madrid,Camarma de Esteruelas,vista exterior,desconocido,desconocido,desconocido,desconocido,Entre 30 y 40 km
-duplex,desconocido,750.0,35.0,1 habitacion,1 aseo,desconocido,desconocido,Madrid,Madrid,vista exterior,desconocido,desconocido,desconocido,desconocido,Entre 1 y 5 km
-flat,good,750.0,66.0,2 habitaciones,1 aseo,primero,Centro,Madrid,Alcorcón,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,650.0,65.0,1 habitacion,1 aseo,entreplanta,San Isidro - Los Almendros,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,720.0,133.0,3 habitaciones,2 aseos,primero,San José - Buenos Aires,Madrid,Pinto,vista interior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 10 y 20 km
-flat,good,700.0,230.0,4 habitaciones,2 aseos,desconocido,desconocido,Guadalajara,Pozo de Guadalajara,vista exterior,desconocido,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,600.0,50.0,1 habitacion,1 aseo,desconocido,Hospital,Madrid,Valdemoro,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,650.0,61.0,1 habitacion,1 aseo,segundo,Parque de la Coruña - Las Suertes,Madrid,Collado Villalba,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,650.0,65.0,2 habitaciones,1 aseo,tercero,Valderas - Los Castillos,Madrid,Alcorcón,vista interior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,700.0,45.0,1 habitacion,1 aseo,tercero,Barajas,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,625.0,62.0,2 habitaciones,1 aseo,bajo,Getafe Centro,Madrid,Getafe,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,595.0,45.0,1 habitacion,1 aseo,bajo,Latina,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,650.0,55.0,1 habitacion,1 aseo,cuarto,San Blas,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,725.0,50.0,1 habitacion,1 aseo,segundo,Villaverde,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,750.0,95.0,3 habitaciones,1 aseo,octavo,Reyes Católicos,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-penthouse,good,700.0,30.0,1 habitacion,1 aseo,primero,San Blas,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,tiene fotos 360,Entre 10 y 20 km
-flat,good,700.0,27.0,1 habitacion,1 aseo,tercero,Centro,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,650.0,59.0,2 habitaciones,1 aseo,primero,Val,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,550.0,40.0,1 habitacion,1 aseo,tercero,Casco Urbano,Madrid,Paracuellos de Jarama,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,650.0,55.0,1 habitacion,1 aseo,cuarto,San Blas,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,750.0,65.0,2 habitaciones,1 aseo,desconocido,Ciudad Lineal,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,725.0,70.0,2 habitaciones,1 aseo,desconocido,Puente de Vallecas,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,700.0,80.0,1 habitacion,1 aseo,primero,Casco Histórico,Madrid,Alcalá de Henares,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,650.0,40.0,1 habitacion,1 aseo,bajo,Barajas,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,695.0,90.0,3 habitaciones,1 aseo,desconocido,Villaverde,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,750.0,55.0,1 habitacion,1 aseo,desconocido,Ciudad Lineal,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,650.0,65.0,2 habitaciones,1 aseo,desconocido,Latina,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,666.0,70.0,1 habitacion,2 aseos,primero,Los Llanos - Valle Pardo,Madrid,Villanueva del Pardillo,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,750.0,78.0,2 habitaciones,2 aseos,desconocido,Ensanche,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,630.0,74.0,3 habitaciones,1 aseo,desconocido,desconocido,Madrid,El Molar,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-studio,good,635.0,55.0,sin habitaciones,1 aseo,segundo,Valdepelayo - Montepinos - Arroyo Culebro,Madrid,Leganés,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,725.0,69.0,2 habitaciones,1 aseo,primero,Dehesa - El Soto,Madrid,Collado Villalba,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,740.0,94.0,2 habitaciones,1 aseo,primero,El Vallejo,Guadalajara,Azuqueca de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,750.0,35.0,1 habitacion,1 aseo,primero,Centro,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Menos de 1 km
-flat,good,690.0,65.0,2 habitaciones,1 aseo,tercero,Puente de Vallecas,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-studio,good,700.0,30.0,sin habitaciones,1 aseo,segundo,Centro,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,730.0,64.0,3 habitaciones,1 aseo,primero,Pintores-Ferial,Madrid,Parla,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 20 y 30 km
-flat,good,750.0,51.0,1 habitacion,1 aseo,primero,Carabanchel,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,750.0,48.0,1 habitacion,1 aseo,cuarto,Zona Estación- Centro,Madrid,Tres Cantos,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,690.0,35.0,1 habitacion,1 aseo,desconocido,Tetuán,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,675.0,84.0,2 habitaciones,2 aseos,segundo,El Quiñón,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,750.0,74.0,3 habitaciones,1 aseo,cuarto,Centro,Madrid,Alcorcón,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,650.0,84.0,2 habitaciones,1 aseo,primero,desconocido,Toledo,Yuncos,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-duplex,good,700.0,35.0,1 habitacion,1 aseo,bajo,Centro,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Menos de 1 km
-duplex,good,500.0,96.0,3 habitaciones,2 aseos,primero,desconocido,Toledo,Esquivias,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,tiene fotos 360,Entre 30 y 40 km
-flat,good,600.0,85.0,2 habitaciones,1 aseo,bajo,desconocido,Toledo,Yuncos,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,720.0,42.0,1 habitacion,1 aseo,cuarto,Hortaleza,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,595.0,55.0,1 habitacion,1 aseo,primero,desconocido,Madrid,Quijorna,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,700.0,45.0,1 habitacion,1 aseo,primero,Centro,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,750.0,90.0,3 habitaciones,1 aseo,tercero,Constitución-El Balconcillo,Guadalajara,Guadalajara,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,500.0,45.0,1 habitacion,1 aseo,desconocido,Valdemorillo pueblo,Madrid,Valdemorillo,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,750.0,149.0,2 habitaciones,2 aseos,bajo,Señorío de Illescas,Toledo,Illescas,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,625.0,89.0,2 habitaciones,2 aseos,tercero,El Quiñón,Toledo,Seseña,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,700.0,75.0,2 habitaciones,1 aseo,primero,Nuevo Aranjuez-Ciudad de las Artes,Madrid,Aranjuez,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,550.0,100.0,3 habitaciones,2 aseos,bajo,desconocido,Toledo,Yuncler,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-duplex,good,675.0,87.0,2 habitaciones,2 aseos,segundo,desconocido,Madrid,Miraflores de la Sierra,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,650.0,45.0,1 habitacion,1 aseo,bajo,desconocido,Madrid,Pedrezuela,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-studio,good,750.0,55.0,sin habitaciones,1 aseo,segundo,Centro,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,tiene tour 3D,no tiene fotos 360,Menos de 1 km
-studio,good,720.0,45.0,sin habitaciones,1 aseo,quinto,Vega de la Moraleja,Madrid,San Sebastián de los Reyes,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 10 y 20 km
-flat,newdevelopment,624.0,45.0,1 habitacion,1 aseo,desconocido,Hospital,Madrid,Valdemoro,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,newdevelopment,633.0,45.0,1 habitacion,1 aseo,desconocido,Hospital,Madrid,Valdemoro,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-studio,good,640.0,33.0,sin habitaciones,1 aseo,segundo,Villa de Vallecas,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,645.0,84.0,2 habitaciones,2 aseos,segundo,Nuevo Aranjuez-Ciudad de las Artes,Madrid,Aranjuez,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,tiene fotos 360,Entre 40 y 50 km
-flat,good,750.0,46.0,1 habitacion,1 aseo,tercero,Centro,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 1 y 5 km
-studio,good,735.0,35.0,sin habitaciones,1 aseo,primero,Fuencarral,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 10 y 20 km
-flat,desconocido,600.0,55.0,1 habitacion,1 aseo,desconocido,desconocido,Madrid,Daganzo de Arriba,vista exterior,desconocido,desconocido,desconocido,desconocido,Entre 20 y 30 km
-flat,good,750.0,75.0,3 habitaciones,1 aseo,desconocido,Villaverde,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-penthouse,good,600.0,25.0,1 habitacion,1 aseo,quinto,Centro,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Menos de 1 km
-flat,good,705.0,48.0,1 habitacion,1 aseo,cuarto,Villa de Vallecas,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,500.0,90.0,3 habitaciones,2 aseos,segundo,desconocido,Toledo,Yeles,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,650.0,62.0,2 habitaciones,1 aseo,tercero,desconocido,Madrid,Guadarrama,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,desconocido,550.0,106.0,2 habitaciones,1 aseo,desconocido,desconocido,Toledo,Ocaña,vista exterior,desconocido,desconocido,desconocido,desconocido,Mas de 50 km
-duplex,good,700.0,61.0,2 habitaciones,1 aseo,primero,desconocido,Madrid,Cobeña,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-studio,good,650.0,40.0,sin habitaciones,1 aseo,entreplanta,Tetuán,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,700.0,40.0,1 habitacion,1 aseo,bajo,Latina,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,730.0,51.0,2 habitaciones,1 aseo,cuarto,Villaverde,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,750.0,50.0,2 habitaciones,1 aseo,tercero,Villa de Vallecas,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,680.0,56.0,2 habitaciones,1 aseo,tercero,Noroeste,Madrid,Torrejón de Ardoz,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 10 y 20 km
-flat,good,710.0,78.0,3 habitaciones,1 aseo,cuarto,Fuentebella-San Felix-El Leguario,Madrid,Parla,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 20 y 30 km
-flat,good,720.0,47.0,2 habitaciones,1 aseo,primero,San Blas,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-studio,good,750.0,43.0,sin habitaciones,1 aseo,desconocido,Tetuán,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,650.0,81.0,2 habitaciones,2 aseos,primero,El Quiñón,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-studio,good,695.0,40.0,sin habitaciones,1 aseo,desconocido,Barajas,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,desconocido,630.0,54.0,1 habitacion,2 aseos,desconocido,desconocido,Madrid,El Álamo,vista exterior,desconocido,desconocido,desconocido,desconocido,Entre 30 y 40 km
-flat,good,750.0,90.0,3 habitaciones,1 aseo,desconocido,desconocido,Madrid,Algete,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,730.0,50.0,1 habitacion,1 aseo,segundo,Villa de Vallecas,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,600.0,90.0,3 habitaciones,1 aseo,desconocido,Centro,Madrid,Valdemoro,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-studio,good,650.0,45.0,sin habitaciones,1 aseo,bajo,Ciudad Lineal,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,750.0,38.0,1 habitacion,1 aseo,bajo,Centro,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Menos de 1 km
-flat,good,600.0,90.0,3 habitaciones,2 aseos,desconocido,desconocido,Guadalajara,El Casar,vista interior,desconocido,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,730.0,50.0,1 habitacion,1 aseo,desconocido,Rivas Futura,Madrid,Rivas-Vaciamadrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,550.0,90.0,3 habitaciones,2 aseos,desconocido,desconocido,Toledo,Yuncler,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-penthouse,good,550.0,80.0,2 habitaciones,1 aseo,segundo,desconocido,Toledo,Yeles,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-studio,good,735.0,30.0,sin habitaciones,1 aseo,segundo,Fuencarral,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,tiene fotos 360,Entre 10 y 20 km
-flat,good,610.0,72.0,1 habitacion,1 aseo,bajo,San José - Buenos Aires,Madrid,Pinto,vista interior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 10 y 20 km
-flat,good,550.0,70.0,2 habitaciones,1 aseo,desconocido,desconocido,Toledo,Cedillo del Condado,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-chalet,good,580.0,54.0,3 habitaciones,2 aseos,desconocido,desconocido,Madrid,Los Santos de la Humosa,vista interior,desconocido,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,725.0,50.0,1 habitacion,1 aseo,entreplanta,Centro,Madrid,Villanueva del Pardillo,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,750.0,48.0,1 habitacion,1 aseo,primero,Carabanchel,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,750.0,70.0,3 habitaciones,1 aseo,segundo,San Isidro - Los Almendros,Madrid,Alcalá de Henares,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,750.0,49.0,1 habitacion,1 aseo,septimo,Hortaleza,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,730.0,60.0,3 habitaciones,1 aseo,tercero,Reyes,Madrid,Parla,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 20 y 30 km
-flat,good,560.0,26.0,1 habitacion,1 aseo,bajo,Centro,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Menos de 1 km
-studio,desconocido,700.0,23.0,sin habitaciones,1 aseo,desconocido,desconocido,Madrid,Madrid,vista exterior,desconocido,desconocido,desconocido,desconocido,Entre 1 y 5 km
-flat,good,750.0,80.0,3 habitaciones,1 aseo,segundo,Parque Roma - Coronas,Madrid,San Fernando de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,730.0,70.0,3 habitaciones,1 aseo,tercero,Parque Europa - Los Pitufos,Madrid,Pinto,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 10 y 20 km
-flat,good,730.0,52.0,2 habitaciones,1 aseo,cuarto,Vicálvaro,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,740.0,64.0,2 habitaciones,1 aseo,tercero,Villaverde,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,720.0,65.0,2 habitaciones,1 aseo,segundo,Villaverde,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,720.0,63.0,2 habitaciones,1 aseo,segundo,Noroeste,Madrid,Torrejón de Ardoz,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 10 y 20 km
-flat,good,740.0,54.0,2 habitaciones,1 aseo,primero,Villaverde,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,720.0,52.0,2 habitaciones,1 aseo,tercero,La Alhóndiga,Madrid,Getafe,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 10 y 20 km
-flat,good,730.0,45.0,2 habitaciones,1 aseo,tercero,Puente de Vallecas,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 1 y 5 km
-duplex,desconocido,600.0,80.0,1 habitacion,1 aseo,desconocido,desconocido,Madrid,Madrid,vista interior,desconocido,desconocido,desconocido,desconocido,Entre 5 y 10 km
-duplex,desconocido,600.0,80.0,1 habitacion,1 aseo,desconocido,desconocido,Madrid,Madrid,vista interior,desconocido,desconocido,desconocido,desconocido,Entre 5 y 10 km
-duplex,good,725.0,71.0,2 habitaciones,1 aseo,primero,desconocido,Madrid,Cobeña,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,675.0,76.0,3 habitaciones,1 aseo,segundo,desconocido,Madrid,Aldea del Fresno,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 40 y 50 km
-flat,good,750.0,54.0,1 habitacion,1 aseo,tercero,Centro Urbano,Madrid,San Sebastián de los Reyes,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-duplex,good,750.0,79.0,2 habitaciones,2 aseos,primero,Villalba Estación,Madrid,Collado Villalba,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,700.0,54.0,1 habitacion,1 aseo,segundo,Usera,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,750.0,54.0,2 habitaciones,1 aseo,tercero,Villaverde,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,730.0,48.0,2 habitaciones,1 aseo,tercero,San Blas,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,650.0,61.0,2 habitaciones,1 aseo,cuarto,Reyes Católicos,Madrid,Alcalá de Henares,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 20 y 30 km
-flat,good,730.0,63.0,2 habitaciones,1 aseo,primero,Villaverde,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,720.0,50.0,2 habitaciones,1 aseo,segundo,San Blas,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,720.0,51.0,2 habitaciones,1 aseo,primero,San Blas,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,750.0,47.0,2 habitaciones,1 aseo,primero,Puente de Vallecas,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 1 y 5 km
-flat,good,730.0,50.0,2 habitaciones,1 aseo,tercero,Villaverde,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,730.0,40.0,2 habitaciones,1 aseo,segundo,Puente de Vallecas,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 1 y 5 km
-flat,good,670.0,67.0,2 habitaciones,1 aseo,primero,Zona Estación,Madrid,Valdemoro,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 20 y 30 km
-flat,good,740.0,52.0,2 habitaciones,1 aseo,tercero,Puente de Vallecas,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 1 y 5 km
-flat,good,720.0,69.0,2 habitaciones,1 aseo,primero,Chorrillo,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 20 y 30 km
-flat,good,750.0,59.0,2 habitaciones,1 aseo,cuarto,Villaverde,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,740.0,45.0,2 habitaciones,1 aseo,tercero,Villaverde,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,740.0,60.0,2 habitaciones,1 aseo,primero,Villaverde,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-studio,good,730.0,45.0,sin habitaciones,1 aseo,desconocido,Centro,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Menos de 1 km
-flat,good,620.0,75.0,3 habitaciones,1 aseo,desconocido,Reyes,Madrid,Parla,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,695.0,67.0,2 habitaciones,1 aseo,desconocido,Sudeste Industrial,Madrid,Fuenlabrada,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,650.0,95.0,3 habitaciones,1 aseo,desconocido,Centro,Madrid,Navalcarnero,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,675.0,68.0,2 habitaciones,1 aseo,desconocido,Juan de Austria,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,695.0,65.0,2 habitaciones,1 aseo,desconocido,Vicálvaro,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,750.0,111.0,2 habitaciones,2 aseos,sexto,Centro,Madrid,Parla,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,desconocido,675.0,35.0,1 habitacion,1 aseo,desconocido,desconocido,Madrid,Madrid,vista interior,desconocido,desconocido,desconocido,desconocido,Entre 1 y 5 km
-flat,good,730.0,60.0,3 habitaciones,1 aseo,tercero,Reyes,Madrid,Parla,vista interior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 20 y 30 km
-flat,good,690.0,85.0,2 habitaciones,1 aseo,desconocido,Reyes,Madrid,Parla,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,750.0,45.0,1 habitacion,1 aseo,bajo,Tetuán,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,650.0,87.0,2 habitaciones,2 aseos,tercero,El Quiñón,Toledo,Seseña,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-studio,good,600.0,32.0,sin habitaciones,1 aseo,primero,San Blas,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,450.0,60.0,1 habitacion,1 aseo,primero,desconocido,Toledo,Yeles,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-studio,newdevelopment,723.0,25.0,sin habitaciones,1 aseo,desconocido,Rivas Futura,Madrid,Rivas-Vaciamadrid,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,620.0,87.0,2 habitaciones,2 aseos,primero,El Quiñón,Toledo,Seseña,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,400.0,55.0,1 habitacion,1 aseo,primero,desconocido,Toledo,Yeles,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,500.0,115.0,3 habitaciones,2 aseos,segundo,desconocido,Toledo,Fuensalida,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,650.0,95.0,2 habitaciones,2 aseos,cuarto,El Quiñón,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,725.0,50.0,1 habitacion,1 aseo,primero,San Blas,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,desconocido,750.0,67.0,3 habitaciones,1 aseo,desconocido,desconocido,Madrid,Getafe,vista exterior,desconocido,desconocido,desconocido,desconocido,Entre 10 y 20 km
-flat,desconocido,600.0,45.0,2 habitaciones,1 aseo,desconocido,desconocido,Madrid,Mataelpino,vista exterior,desconocido,desconocido,desconocido,desconocido,Entre 40 y 50 km
-flat,good,750.0,70.0,3 habitaciones,1 aseo,segundo,Montserrat - Parque Empresarial,Madrid,San Fernando de Henares,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-penthouse,good,450.0,60.0,1 habitacion,1 aseo,desconocido,desconocido,Madrid,Villa del Prado,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,550.0,105.0,3 habitaciones,1 aseo,segundo,desconocido,Toledo,El Viso de San Juan,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,720.0,54.0,1 habitacion,1 aseo,bajo,Carabanchel,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 1 y 5 km
-penthouse,good,550.0,75.0,2 habitaciones,2 aseos,desconocido,desconocido,Madrid,Villa del Prado,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,720.0,49.0,3 habitaciones,1 aseo,tercero,Villaverde,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,740.0,65.0,3 habitaciones,1 aseo,primero,Vicálvaro,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,desconocido,660.0,155.0,3 habitaciones,2 aseos,desconocido,desconocido,Madrid,Aranjuez,vista interior,desconocido,desconocido,desconocido,desconocido,Entre 40 y 50 km
-flat,good,720.0,56.0,2 habitaciones,1 aseo,cuarto,Villaverde,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,650.0,31.0,1 habitacion,1 aseo,tercero,Centro,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,650.0,96.0,2 habitaciones,1 aseo,tercero,Nuevo Aranjuez-Ciudad de las Artes,Madrid,Aranjuez,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 40 y 50 km
-flat,good,660.0,168.0,4 habitaciones,2 aseos,tercero,La Montaña-El Cortijo,Madrid,Aranjuez,vista interior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 40 y 50 km
-flat,good,690.0,64.0,2 habitaciones,1 aseo,bajo,Val,Madrid,Alcalá de Henares,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-studio,good,750.0,25.0,sin habitaciones,1 aseo,quinto,Barrio de Salamanca,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-chalet,good,750.0,216.0,3 habitaciones,2 aseos,desconocido,desconocido,Toledo,Mocejón,vista interior,desconocido,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,725.0,45.0,1 habitacion,1 aseo,segundo,San Blas,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,620.0,85.0,1 habitacion,1 aseo,bajo,San José - Buenos Aires,Madrid,Pinto,vista interior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 10 y 20 km
-flat,good,590.0,52.0,1 habitacion,1 aseo,bajo,desconocido,Madrid,Los Molinos,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-penthouse,good,750.0,80.0,sin habitaciones,1 aseo,primero,Zona Industrial,Madrid,Tres Cantos,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-studio,good,720.0,36.0,sin habitaciones,1 aseo,segundo,Ciudad Lineal,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,700.0,82.0,2 habitaciones,1 aseo,tercero,Centro - Casco Histórico,Madrid,San Lorenzo de el Escorial,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,750.0,155.0,3 habitaciones,2 aseos,bajo,Señorío de Illescas,Toledo,Illescas,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,newdevelopment,692.0,83.0,2 habitaciones,2 aseos,desconocido,Suroeste,Madrid,Torrejón de Ardoz,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,newdevelopment,670.0,79.0,2 habitaciones,2 aseos,desconocido,Suroeste,Madrid,Torrejón de Ardoz,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,newdevelopment,609.0,56.0,1 habitacion,1 aseo,bajo,Espartales,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,newdevelopment,718.0,86.0,2 habitaciones,2 aseos,desconocido,Suroeste,Madrid,Torrejón de Ardoz,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,newdevelopment,694.0,81.0,2 habitaciones,2 aseos,desconocido,Suroeste,Madrid,Torrejón de Ardoz,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,newdevelopment,658.0,78.0,2 habitaciones,2 aseos,desconocido,Suroeste,Madrid,Torrejón de Ardoz,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,750.0,36.0,2 habitaciones,1 aseo,segundo,Tetuán,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,newdevelopment,723.0,88.0,2 habitaciones,2 aseos,desconocido,Suroeste,Madrid,Torrejón de Ardoz,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,newdevelopment,728.0,91.0,2 habitaciones,2 aseos,desconocido,Suroeste,Madrid,Torrejón de Ardoz,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-studio,good,650.0,28.0,sin habitaciones,1 aseo,bajo,Tetuán,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,tiene fotos 360,Entre 1 y 5 km
-flat,good,750.0,60.0,2 habitaciones,1 aseo,primero,Casco Histórico,Madrid,Alcalá de Henares,vista interior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,735.0,60.0,3 habitaciones,1 aseo,cuarto,Parque Inlasa,Madrid,Parla,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 20 y 30 km
-penthouse,good,699.0,78.0,2 habitaciones,1 aseo,segundo,Centro,Madrid,Colmenar Viejo,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,725.0,67.0,3 habitaciones,1 aseo,cuarto,Centro,Madrid,Móstoles,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 10 y 20 km
-flat,good,740.0,77.0,3 habitaciones,2 aseos,bajo,Reyes Católicos,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 20 y 30 km
-chalet,good,700.0,238.0,4 habitaciones,3 aseos,desconocido,desconocido,Toledo,Yeles,vista interior,desconocido,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,720.0,73.0,1 habitacion,1 aseo,segundo,Villalba Estación,Madrid,Collado Villalba,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,750.0,79.0,3 habitaciones,1 aseo,entreplanta,Universidad,Madrid,Getafe,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-penthouse,good,660.0,66.0,1 habitacion,1 aseo,octavo,El Quiñón,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,710.0,66.0,3 habitaciones,1 aseo,cuarto,Parque Inlasa,Madrid,Parla,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 20 y 30 km
-flat,good,725.0,62.0,2 habitaciones,1 aseo,tercero,Latina,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,750.0,46.0,1 habitacion,1 aseo,bajo,Carabanchel,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,750.0,61.0,2 habitaciones,1 aseo,primero,Carabanchel,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,730.0,161.0,4 habitaciones,1 aseo,tercero,Nuevo Aranjuez-Ciudad de las Artes,Madrid,Aranjuez,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 40 y 50 km
-flat,good,495.0,90.0,3 habitaciones,2 aseos,bajo,desconocido,Toledo,Borox,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,720.0,110.0,2 habitaciones,1 aseo,desconocido,Las Américas,Madrid,Parla,vista interior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 20 y 30 km
-flat,good,720.0,48.0,2 habitaciones,1 aseo,bajo,Puente de Vallecas,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 1 y 5 km
-flat,good,700.0,57.0,2 habitaciones,1 aseo,cuarto,Villaverde,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-duplex,good,750.0,75.0,2 habitaciones,2 aseos,primero,desconocido,Madrid,Cobeña,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-studio,good,610.0,26.0,sin habitaciones,1 aseo,tercero,Tetuán,Madrid,Madrid,vista interior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,740.0,52.0,2 habitaciones,1 aseo,cuarto,Centro,Madrid,Móstoles,vista interior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 10 y 20 km
-flat,good,715.0,62.0,2 habitaciones,1 aseo,bajo,San Crispín - La Estación Consorcio,Madrid,Colmenar Viejo,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,tiene fotos 360,Entre 20 y 30 km
-flat,good,550.0,57.0,2 habitaciones,1 aseo,bajo,Foso-Moreras,Madrid,Aranjuez,vista interior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 40 y 50 km
-flat,good,710.0,36.0,1 habitacion,1 aseo,bajo,Arganzuela,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 1 y 5 km
-flat,good,730.0,51.0,2 habitaciones,1 aseo,segundo,Villaverde,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-studio,good,750.0,23.0,sin habitaciones,1 aseo,octavo,Centro,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,690.0,33.0,1 habitacion,1 aseo,tercero,Tetuán,Madrid,Madrid,vista interior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,740.0,73.0,3 habitaciones,1 aseo,cuarto,Fuentebella-San Felix-El Leguario,Madrid,Parla,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 20 y 30 km
-duplex,good,750.0,66.0,1 habitacion,1 aseo,bajo,Tetuán,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,720.0,44.0,3 habitaciones,1 aseo,segundo,Villaverde,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,475.0,79.0,2 habitaciones,2 aseos,segundo,desconocido,Madrid,Navalafuente,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,740.0,41.0,2 habitaciones,1 aseo,segundo,Puente de Vallecas,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 1 y 5 km
-flat,good,740.0,57.0,1 habitacion,1 aseo,primero,Latina,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 1 y 5 km
-flat,good,740.0,62.0,2 habitaciones,1 aseo,primero,San Crispín - La Estación Consorcio,Madrid,Colmenar Viejo,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,tiene fotos 360,Entre 20 y 30 km
-flat,good,700.0,74.0,2 habitaciones,1 aseo,cuarto,Getafe norte,Madrid,Getafe,vista interior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,730.0,35.0,1 habitacion,1 aseo,segundo,Centro,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Menos de 1 km
-studio,good,700.0,28.0,sin habitaciones,1 aseo,tercero,Fuencarral,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-chalet,good,600.0,180.0,3 habitaciones,2 aseos,desconocido,desconocido,Madrid,Meco,vista interior,desconocido,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,470.0,80.0,1 habitacion,1 aseo,primero,desconocido,Toledo,Fuensalida,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,550.0,76.0,2 habitaciones,1 aseo,segundo,desconocido,Toledo,Yuncos,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,750.0,109.0,2 habitaciones,2 aseos,tercero,Hospital,Madrid,Valdemoro,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,749.0,38.0,1 habitacion,1 aseo,segundo,Carabanchel,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-studio,good,700.0,30.0,sin habitaciones,1 aseo,bajo,Retiro,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,667.0,70.0,1 habitacion,1 aseo,octavo,Parla Este,Madrid,Parla,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,725.0,45.0,1 habitacion,1 aseo,primero,San Blas,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-penthouse,good,550.0,70.0,3 habitaciones,1 aseo,tercero,desconocido,Madrid,Robledo de Chavela,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,695.0,55.0,3 habitaciones,1 aseo,cuarto,Villayuventus-Renfe,Madrid,Parla,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 10 y 20 km
-flat,good,675.0,84.0,2 habitaciones,2 aseos,segundo,El Quiñón,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,750.0,105.0,3 habitaciones,1 aseo,primero,desconocido,Madrid,Campo Real,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,699.0,52.0,1 habitacion,1 aseo,tercero,Puente de Vallecas,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-studio,good,750.0,32.0,sin habitaciones,1 aseo,decimo cuarto,Ciudad Lineal,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,730.0,80.0,3 habitaciones,1 aseo,cuarto,Carlos Ruiz,Madrid,Collado Villalba,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,340.0,50.0,1 habitacion,1 aseo,primero,desconocido,Toledo,Fuensalida,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,710.0,30.0,1 habitacion,1 aseo,bajo,Centro,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 1 y 5 km
-flat,good,650.0,58.0,1 habitacion,1 aseo,cuarto,Puente de Vallecas,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-countryHouse,renew,600.0,60.0,2 habitaciones,2 aseos,desconocido,Centro,Madrid,Villaviciosa de Odón,vista interior,desconocido,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,740.0,41.0,2 habitaciones,1 aseo,tercero,Villa de Vallecas,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,525.0,40.0,1 habitacion,1 aseo,tercero,Foso-Moreras,Madrid,Aranjuez,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 40 y 50 km
-studio,good,750.0,35.0,sin habitaciones,1 aseo,cuarto,Moncloa,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,750.0,74.0,3 habitaciones,1 aseo,segundo,Chorrillo,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 20 y 30 km
-flat,good,685.0,84.0,2 habitaciones,2 aseos,sexto,El Quiñón,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,710.0,69.0,3 habitaciones,1 aseo,quinto,Reyes Católicos,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 20 y 30 km
-studio,good,560.0,46.0,sin habitaciones,1 aseo,bajo,Puente de Vallecas,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 1 y 5 km
-duplex,good,500.0,70.0,3 habitaciones,2 aseos,segundo,desconocido,Toledo,Casarrubios del Monte,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,600.0,42.0,1 habitacion,1 aseo,bajo,Noroeste,Madrid,Torrejón de Ardoz,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-penthouse,good,600.0,69.0,3 habitaciones,1 aseo,cuarto,El Espinar,Segovia,El Espinar,vista exterior,tiene ascensor,tiene planos,tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,460.0,85.0,1 habitacion,1 aseo,primero,desconocido,Toledo,Casarrubios del Monte,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,desconocido,460.0,55.0,1 habitacion,1 aseo,desconocido,desconocido,Toledo,Mocejón,vista exterior,desconocido,desconocido,desconocido,desconocido,Mas de 50 km
-flat,good,720.0,44.0,1 habitacion,1 aseo,sotano,Carabanchel,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,750.0,60.0,2 habitaciones,1 aseo,desconocido,Latina,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,750.0,42.0,1 habitacion,1 aseo,cuarto,Arganzuela,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-studio,good,750.0,90.0,sin habitaciones,1 aseo,cuarto,San Blas,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-studio,good,650.0,45.0,sin habitaciones,1 aseo,bajo,Chamartín,Madrid,Madrid,vista interior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,650.0,59.0,1 habitacion,1 aseo,segundo,El Nido-Las Fuentes,Madrid,Parla,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,670.0,75.0,2 habitaciones,1 aseo,tercero,El Mirador - Grillero,Madrid,Arganda,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,600.0,70.0,3 habitaciones,1 aseo,segundo,desconocido,Segovia,San Ildefonso o la Granja,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,newdevelopment,650.0,45.0,1 habitacion,1 aseo,segundo,La Alhóndiga,Madrid,Getafe,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-duplex,desconocido,600.0,70.0,2 habitaciones,1 aseo,desconocido,desconocido,Toledo,Alameda de la Sagra,vista exterior,desconocido,desconocido,desconocido,desconocido,Entre 40 y 50 km
-flat,good,750.0,32.0,1 habitacion,1 aseo,segundo,Puente de Vallecas,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,desconocido,725.0,50.0,1 habitacion,1 aseo,desconocido,desconocido,Madrid,Madrid,vista exterior,desconocido,desconocido,desconocido,desconocido,Entre 5 y 10 km
-studio,good,620.0,20.0,sin habitaciones,1 aseo,primero,Arganzuela,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,500.0,125.0,3 habitaciones,2 aseos,tercero,El Espinar,Segovia,El Espinar,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,400.0,100.0,3 habitaciones,2 aseos,segundo,desconocido,Toledo,Cabañas de la Sagra,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,680.0,35.0,1 habitacion,1 aseo,bajo,Carabanchel,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,750.0,87.0,3 habitaciones,1 aseo,bajo,La Espinilla - Parque Blanco,Madrid,Coslada,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,350.0,53.0,1 habitacion,1 aseo,primero,desconocido,Ávila,Las Navas del Marqués,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,400.0,128.0,4 habitaciones,2 aseos,cuarto,desconocido,Toledo,Villaseca de la Sagra,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,newdevelopment,670.0,53.0,1 habitacion,1 aseo,primero,La Alhóndiga,Madrid,Getafe,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,desconocido,600.0,75.0,3 habitaciones,1 aseo,desconocido,desconocido,Madrid,Alcalá de Henares,vista exterior,desconocido,desconocido,desconocido,desconocido,Entre 20 y 30 km
-flat,good,750.0,70.0,2 habitaciones,1 aseo,cuarto,Centro,Madrid,Alcorcón,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,660.0,91.0,2 habitaciones,2 aseos,quinto,El Quiñón,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,700.0,36.0,2 habitaciones,1 aseo,tercero,Zona Pueblo,Madrid,Pozuelo de Alarcón,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,695.0,58.0,1 habitacion,1 aseo,primero,Carabanchel,Madrid,Madrid,vista interior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,710.0,66.0,1 habitacion,1 aseo,segundo,Centro,Madrid,Arganda,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-duplex,good,700.0,120.0,3 habitaciones,3 aseos,desconocido,desconocido,Guadalajara,Yebes,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,620.0,80.0,2 habitaciones,1 aseo,segundo,desconocido,Madrid,Bustarviejo,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,475.0,46.0,1 habitacion,1 aseo,bajo,desconocido,Segovia,San Ildefonso o la Granja,vista interior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,500.0,100.0,3 habitaciones,1 aseo,tercero,desconocido,Toledo,Fuensalida,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,700.0,80.0,3 habitaciones,1 aseo,primero,desconocido,Madrid,Collado Mediano,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,715.0,89.0,3 habitaciones,1 aseo,bajo,desconocido,Madrid,Chinchón,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,650.0,70.0,2 habitaciones,1 aseo,tercero,Constitución-El Balconcillo,Guadalajara,Guadalajara,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,750.0,50.0,1 habitacion,1 aseo,primero,Villa de Vallecas,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,750.0,45.0,1 habitacion,1 aseo,segundo,Hortaleza,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,430.0,60.0,1 habitacion,1 aseo,primero,desconocido,Toledo,Valmojado,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-penthouse,good,380.0,50.0,1 habitacion,1 aseo,quinto,desconocido,Segovia,San Ildefonso o la Granja,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-studio,good,550.0,25.0,sin habitaciones,1 aseo,bajo,Tetuán,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,550.0,71.0,1 habitacion,1 aseo,bajo,desconocido,Segovia,San Ildefonso o la Granja,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,730.0,60.0,1 habitacion,1 aseo,desconocido,Centro,Madrid,Colmenar Viejo,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-chalet,good,700.0,189.0,4 habitaciones,3 aseos,desconocido,desconocido,Toledo,Camarena,vista interior,desconocido,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-penthouse,good,750.0,46.0,2 habitaciones,1 aseo,cuarto,Puente de Vallecas,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,500.0,80.0,2 habitaciones,1 aseo,desconocido,Los Ángeles de San Rafael,Segovia,El Espinar,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,700.0,45.0,1 habitacion,1 aseo,bajo,Ciudad 70,Madrid,Coslada,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,renew,680.0,85.0,2 habitaciones,1 aseo,bajo,Valleaguado - La Cañada,Madrid,Coslada,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,700.0,97.0,2 habitaciones,2 aseos,sexto,El Quiñón,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,600.0,28.0,1 habitacion,1 aseo,cuarto,Tetuán,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,620.0,97.0,2 habitaciones,2 aseos,primero,El Quiñón,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-duplex,good,750.0,100.0,2 habitaciones,2 aseos,desconocido,Casco Histórico,Guadalajara,Guadalajara,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,550.0,79.0,2 habitaciones,2 aseos,primero,Centro,Toledo,Ocaña,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,690.0,88.0,2 habitaciones,2 aseos,segundo,desconocido,Guadalajara,Alovera,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,750.0,80.0,2 habitaciones,1 aseo,primero,desconocido,Madrid,Colmenarejo,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,700.0,62.0,1 habitacion,1 aseo,segundo,Centro,Madrid,Alcorcón,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,690.0,77.0,2 habitaciones,1 aseo,bajo,Carabanchel,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,700.0,50.0,1 habitacion,1 aseo,bajo,Fuencarral,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,750.0,87.0,2 habitaciones,1 aseo,quinto,Ciudad 70,Madrid,Coslada,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,650.0,176.0,3 habitaciones,2 aseos,primero,desconocido,Toledo,Lominchar,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,735.0,51.0,1 habitacion,1 aseo,cuarto,Buenavista,Madrid,Getafe,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,700.0,80.0,3 habitaciones,1 aseo,quinto,Suroeste,Madrid,Móstoles,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,725.0,75.0,3 habitaciones,1 aseo,desconocido,Centro,Madrid,Fuenlabrada,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-penthouse,good,675.0,80.0,2 habitaciones,1 aseo,tercero,Casco Histórico,Guadalajara,Guadalajara,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,733.0,68.4,2 habitaciones,1 aseo,segundo,Las Sedas - El Olivar,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,750.0,36.0,1 habitacion,1 aseo,bajo,Ciudad Lineal,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,675.0,69.0,2 habitaciones,1 aseo,bajo,Latina,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,650.0,85.0,2 habitaciones,1 aseo,segundo,desconocido,Madrid,Guadarrama,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,730.0,52.0,1 habitacion,1 aseo,bajo,Tetuán,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,700.0,97.0,1 habitacion,1 aseo,bajo,desconocido,Madrid,Loeches,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,650.0,87.0,2 habitaciones,2 aseos,tercero,El Quiñón,Toledo,Seseña,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-studio,good,690.0,38.0,sin habitaciones,1 aseo,segundo,Tetuán,Madrid,Madrid,vista interior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 5 y 10 km
-flat,good,700.0,70.0,2 habitaciones,1 aseo,primero,desconocido,Madrid,Guadarrama,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-duplex,good,600.0,89.0,2 habitaciones,2 aseos,segundo,desconocido,Madrid,Miraflores de la Sierra,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-studio,good,700.0,25.0,sin habitaciones,1 aseo,bajo,Centro,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Menos de 1 km
-flat,good,690.0,60.0,2 habitaciones,1 aseo,bajo,desconocido,Madrid,Sevilla la Nueva,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,620.0,98.0,2 habitaciones,2 aseos,primero,desconocido,Guadalajara,Yebes,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-duplex,good,750.0,114.0,3 habitaciones,3 aseos,primero,desconocido,Madrid,Serranillos del Valle,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-chalet,good,750.0,160.0,3 habitaciones,3 aseos,desconocido,desconocido,Toledo,Santa Cruz del Retamar,vista interior,desconocido,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,700.0,95.0,2 habitaciones,2 aseos,primero,Las Cañas,Guadalajara,Guadalajara,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,605.0,87.0,2 habitaciones,2 aseos,segundo,desconocido,Guadalajara,Yebes,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,645.0,104.0,2 habitaciones,2 aseos,segundo,desconocido,Guadalajara,Yebes,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,750.0,104.0,2 habitaciones,2 aseos,bajo,desconocido,Guadalajara,Yebes,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-studio,good,700.0,51.0,sin habitaciones,1 aseo,bajo,Hortaleza,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,670.0,61.0,1 habitacion,1 aseo,bajo,Parque de la Coruña - Las Suertes,Madrid,Collado Villalba,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,700.0,75.0,2 habitaciones,2 aseos,tercero,Las Lomas-Salinera-La Muñeca,Guadalajara,Guadalajara,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,750.0,80.0,2 habitaciones,1 aseo,cuarto,Zona Estación,Madrid,Valdemoro,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-countryHouse,good,750.0,341.0,2 habitaciones,1 aseo,desconocido,desconocido,Toledo,Las Ventas de Retamosa,vista interior,desconocido,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-studio,good,740.0,33.0,sin habitaciones,1 aseo,bajo,Hortaleza,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,750.0,110.0,4 habitaciones,2 aseos,primero,El Mirador,Madrid,Colmenar Viejo,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,750.0,62.0,2 habitaciones,1 aseo,tercero,Puente de Vallecas,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-studio,good,750.0,70.0,sin habitaciones,1 aseo,bajo,Pol. Industrial sur,Madrid,San Sebastián de los Reyes,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-studio,good,650.0,28.0,sin habitaciones,1 aseo,bajo,Ciudad Lineal,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,625.0,51.0,1 habitacion,1 aseo,segundo,Centro,Madrid,Arganda,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,700.0,35.0,1 habitacion,1 aseo,bajo,Retiro,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,525.0,57.0,1 habitacion,1 aseo,segundo,Parque - Ctra de Ugena,Toledo,Illescas,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,750.0,95.0,2 habitaciones,2 aseos,primero,desconocido,Madrid,Colmenarejo,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,600.0,120.0,2 habitaciones,2 aseos,bajo,desconocido,Guadalajara,Yebes,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Mas de 50 km
-flat,good,725.0,108.0,3 habitaciones,2 aseos,primero,desconocido,Guadalajara,Alovera,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-studio,good,600.0,25.0,sin habitaciones,1 aseo,bajo,Usera,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,480.0,80.0,2 habitaciones,1 aseo,primero,desconocido,Toledo,Las Ventas de Retamosa,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,750.0,89.0,2 habitaciones,2 aseos,segundo,San Isidro,Madrid,Getafe,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,700.0,55.0,1 habitacion,1 aseo,primero,Valdemorillo pueblo,Madrid,Valdemorillo,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,750.0,90.0,3 habitaciones,2 aseos,segundo,desconocido,Madrid,Campo Real,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,750.0,48.0,2 habitaciones,1 aseo,segundo,Fuencarral,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,625.0,57.0,2 habitaciones,1 aseo,bajo,Centro,Madrid,Aranjuez,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,750.0,46.0,1 habitacion,1 aseo,primero,Centro Urbano,Madrid,San Sebastián de los Reyes,vista exterior,no tiene ascensor,tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,695.0,59.0,1 habitacion,1 aseo,cuarto,Villaverde,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,450.0,40.0,1 habitacion,1 aseo,primero,desconocido,Madrid,Robledo de Chavela,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,720.0,58.0,2 habitaciones,1 aseo,bajo,Centro,Madrid,Alcorcón,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
-flat,good,745.0,73.0,2 habitaciones,1 aseo,segundo,Las Sedas - El Olivar,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,720.0,69.6,2 habitaciones,1 aseo,segundo,Las Sedas - El Olivar,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,750.0,55.0,2 habitaciones,1 aseo,primero,Fuencarral,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-studio,good,720.0,48.0,sin habitaciones,1 aseo,primero,Ciudad Lineal,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-studio,good,725.0,44.0,sin habitaciones,1 aseo,octavo,Centro,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 1 y 5 km
-flat,good,750.0,80.0,2 habitaciones,1 aseo,quinto,Villaverde,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,550.0,86.0,2 habitaciones,1 aseo,primero,desconocido,Madrid,Torrelaguna,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 40 y 50 km
-flat,good,640.0,69.0,2 habitaciones,1 aseo,segundo,desconocido,Madrid,Villalbilla,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 20 y 30 km
-flat,good,700.0,54.0,1 habitacion,1 aseo,primero,Getafe Centro,Madrid,Getafe,vista exterior,tiene ascensor,tiene planos,no tiene tour 3D,tiene fotos 360,Entre 10 y 20 km
-flat,good,700.0,59.0,1 habitacion,1 aseo,sexto,Carabanchel,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 5 y 10 km
-flat,good,700.0,75.0,2 habitaciones,1 aseo,primero,Pryconsa - Poligono Europa,Madrid,Alcalá de Henares,vista exterior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 30 y 40 km
-flat,good,695.0,62.0,2 habitaciones,1 aseo,tercero,Alcobendas Centro,Madrid,Alcobendas,vista interior,no tiene ascensor,no tiene planos,no tiene tour 3D,no tiene fotos 360,Entre 10 y 20 km
+propertyType,status,price,size,rooms,bathrooms,floor,province,municipality,exterior,hasLift,hasPlan,has360,distancia_centro
+chalet,good,550.0,371.0,6 habitaciones,3 aseos,desconocido,Toledo,Numancia de la Sagra,vista interior,desconocido,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,750.0,60.0,1 habitacion,1 aseo,tercero,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,750.0,70.0,2 habitaciones,1 aseo,bajo,Madrid,San Sebastián de los Reyes,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Entre 10 y 20 km
+penthouse,good,400.0,67.0,2 habitaciones,2 aseos,segundo,Madrid,Villamanrique de Tajo,vista exterior,no tiene ascensor,no tiene planos,tiene fotos 360,Mas de 50 km
+flat,good,450.0,89.0,2 habitaciones,1 aseo,segundo,Toledo,Recas,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,450.0,60.0,2 habitaciones,1 aseo,primero,Toledo,Cedillo del Condado,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,590.0,70.0,3 habitaciones,2 aseos,desconocido,Madrid,Rascafría,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+studio,desconocido,684.0,45.0,sin habitaciones,1 aseo,desconocido,Madrid,Madrid,vista exterior,desconocido,desconocido,desconocido,Entre 10 y 20 km
+flat,good,600.0,73.0,2 habitaciones,1 aseo,tercero,Madrid,Manzanares el Real,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+duplex,good,600.0,71.0,1 habitacion,1 aseo,primero,Madrid,Miraflores de la Sierra,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,550.0,90.0,3 habitaciones,1 aseo,segundo,Toledo,El Viso de San Juan,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,550.0,53.0,1 habitacion,1 aseo,primero,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+studio,good,700.0,28.0,sin habitaciones,1 aseo,primero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Entre 5 y 10 km
+duplex,good,700.0,86.0,2 habitaciones,1 aseo,tercero,Madrid,Galapagar,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,700.0,45.0,1 habitacion,1 aseo,quinto,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,550.0,54.0,2 habitaciones,1 aseo,entreplanta,Madrid,Arganda,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,695.0,64.0,2 habitaciones,1 aseo,primero,Madrid,San Sebastián de los Reyes,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,650.0,68.0,2 habitaciones,1 aseo,bajo,Madrid,San Lorenzo de el Escorial,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+penthouse,good,400.0,70.0,2 habitaciones,1 aseo,segundo,Toledo,Camarena,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,700.0,30.0,1 habitacion,1 aseo,primero,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,700.0,35.0,1 habitacion,1 aseo,primero,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,700.0,43.0,1 habitacion,1 aseo,segundo,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,650.0,60.0,2 habitaciones,1 aseo,primero,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+chalet,good,650.0,206.0,3 habitaciones,1 aseo,desconocido,Madrid,Aldea del Fresno,vista interior,desconocido,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,700.0,105.0,3 habitaciones,2 aseos,bajo,Madrid,Aranjuez,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,695.0,40.0,1 habitacion,1 aseo,cuarto,Madrid,Madrid,vista interior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,675.0,40.0,1 habitacion,1 aseo,bajo,Madrid,Villanueva del Pardillo,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,650.0,100.0,4 habitaciones,1 aseo,tercero,Guadalajara,Azuqueca de Henares,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,500.0,115.0,3 habitaciones,2 aseos,segundo,Segovia,El Espinar,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+studio,good,750.0,45.0,sin habitaciones,1 aseo,bajo,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,750.0,99.0,3 habitaciones,2 aseos,primero,Madrid,Aranjuez,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,680.0,38.0,1 habitacion,1 aseo,primero,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,750.0,51.0,1 habitacion,1 aseo,primero,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+penthouse,good,750.0,60.0,1 habitacion,1 aseo,segundo,Madrid,Las Rozas de Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+studio,good,750.0,25.0,sin habitaciones,1 aseo,cuarto,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Menos de 1 km
+flat,good,750.0,40.0,1 habitacion,1 aseo,primero,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,750.0,90.0,2 habitaciones,1 aseo,primero,Guadalajara,Guadalajara,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,desconocido,750.0,95.0,3 habitaciones,2 aseos,desconocido,Toledo,Illescas,vista exterior,desconocido,desconocido,desconocido,Entre 30 y 40 km
+flat,good,650.0,62.0,2 habitaciones,1 aseo,primero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Entre 5 y 10 km
+studio,good,750.0,30.0,sin habitaciones,1 aseo,tercero,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Menos de 1 km
+flat,good,750.0,39.0,1 habitacion,1 aseo,quinto,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,700.0,62.0,2 habitaciones,1 aseo,tercero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,747.0,96.0,3 habitaciones,2 aseos,primero,Madrid,Navalcarnero,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,730.0,98.0,3 habitaciones,2 aseos,segundo,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+studio,good,640.0,35.0,sin habitaciones,1 aseo,primero,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,530.0,50.0,2 habitaciones,1 aseo,primero,Toledo,Casarrubios del Monte,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,750.0,30.0,1 habitacion,1 aseo,sotano,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,750.0,70.0,2 habitaciones,1 aseo,segundo,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,625.0,52.0,2 habitaciones,1 aseo,segundo,Madrid,El Escorial,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+studio,good,700.0,40.0,sin habitaciones,1 aseo,tercero,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+studio,good,750.0,40.0,sin habitaciones,1 aseo,entreplanta,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,650.0,35.0,1 habitacion,1 aseo,segundo,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,720.0,70.0,3 habitaciones,1 aseo,segundo,Madrid,Alcalá de Henares,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,650.0,70.0,2 habitaciones,1 aseo,primero,Toledo,Calypo Fado,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,699.0,52.0,1 habitacion,1 aseo,tercero,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,650.0,70.0,2 habitaciones,1 aseo,primero,Toledo,Calypo Fado,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,750.0,65.0,2 habitaciones,1 aseo,desconocido,Madrid,Leganés,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,695.0,65.0,2 habitaciones,1 aseo,desconocido,Madrid,Coslada,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,750.0,78.0,2 habitaciones,2 aseos,desconocido,Madrid,Torrejón de Ardoz,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,620.0,60.0,2 habitaciones,1 aseo,desconocido,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+studio,good,500.0,28.0,sin habitaciones,1 aseo,primero,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene fotos 360,Menos de 1 km
+flat,good,550.0,38.0,1 habitacion,1 aseo,desconocido,Madrid,Leganés,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,750.0,46.0,1 habitacion,1 aseo,tercero,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+studio,good,680.0,55.0,sin habitaciones,1 aseo,bajo,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+chalet,good,750.0,130.0,4 habitaciones,1 aseo,desconocido,Guadalajara,Marchamalo,vista interior,desconocido,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,550.0,70.0,1 habitacion,1 aseo,tercero,Guadalajara,Guadalajara,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,desconocido,700.0,50.0,1 habitacion,2 aseos,desconocido,Madrid,Camarma de Esteruelas,vista exterior,desconocido,desconocido,desconocido,Entre 30 y 40 km
+duplex,desconocido,750.0,35.0,1 habitacion,1 aseo,desconocido,Madrid,Madrid,vista exterior,desconocido,desconocido,desconocido,Entre 1 y 5 km
+flat,good,750.0,66.0,2 habitaciones,1 aseo,primero,Madrid,Alcorcón,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,650.0,65.0,1 habitacion,1 aseo,entreplanta,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,720.0,133.0,3 habitaciones,2 aseos,primero,Madrid,Pinto,vista interior,tiene ascensor,tiene planos,tiene fotos 360,Entre 10 y 20 km
+flat,good,700.0,230.0,4 habitaciones,2 aseos,desconocido,Guadalajara,Pozo de Guadalajara,vista exterior,desconocido,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,600.0,50.0,1 habitacion,1 aseo,desconocido,Madrid,Valdemoro,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,650.0,61.0,1 habitacion,1 aseo,segundo,Madrid,Collado Villalba,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,650.0,65.0,2 habitaciones,1 aseo,tercero,Madrid,Alcorcón,vista interior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,700.0,45.0,1 habitacion,1 aseo,tercero,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,625.0,62.0,2 habitaciones,1 aseo,bajo,Madrid,Getafe,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,595.0,45.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,650.0,55.0,1 habitacion,1 aseo,cuarto,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,725.0,50.0,1 habitacion,1 aseo,segundo,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,750.0,95.0,3 habitaciones,1 aseo,octavo,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+penthouse,good,700.0,30.0,1 habitacion,1 aseo,primero,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,tiene fotos 360,Entre 10 y 20 km
+flat,good,700.0,27.0,1 habitacion,1 aseo,tercero,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,650.0,59.0,2 habitaciones,1 aseo,primero,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,550.0,40.0,1 habitacion,1 aseo,tercero,Madrid,Paracuellos de Jarama,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,650.0,55.0,1 habitacion,1 aseo,cuarto,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,750.0,65.0,2 habitaciones,1 aseo,desconocido,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,725.0,70.0,2 habitaciones,1 aseo,desconocido,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,700.0,80.0,1 habitacion,1 aseo,primero,Madrid,Alcalá de Henares,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,650.0,40.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,695.0,90.0,3 habitaciones,1 aseo,desconocido,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,750.0,55.0,1 habitacion,1 aseo,desconocido,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,650.0,65.0,2 habitaciones,1 aseo,desconocido,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,666.0,70.0,1 habitacion,2 aseos,primero,Madrid,Villanueva del Pardillo,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,750.0,78.0,2 habitaciones,2 aseos,desconocido,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,630.0,74.0,3 habitaciones,1 aseo,desconocido,Madrid,El Molar,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+studio,good,635.0,55.0,sin habitaciones,1 aseo,segundo,Madrid,Leganés,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,725.0,69.0,2 habitaciones,1 aseo,primero,Madrid,Collado Villalba,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,740.0,94.0,2 habitaciones,1 aseo,primero,Guadalajara,Azuqueca de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,750.0,35.0,1 habitacion,1 aseo,primero,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,no tiene fotos 360,Menos de 1 km
+flat,good,690.0,65.0,2 habitaciones,1 aseo,tercero,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+studio,good,700.0,30.0,sin habitaciones,1 aseo,segundo,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,730.0,64.0,3 habitaciones,1 aseo,primero,Madrid,Parla,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 20 y 30 km
+flat,good,750.0,51.0,1 habitacion,1 aseo,primero,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,750.0,48.0,1 habitacion,1 aseo,cuarto,Madrid,Tres Cantos,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,690.0,35.0,1 habitacion,1 aseo,desconocido,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,675.0,84.0,2 habitaciones,2 aseos,segundo,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,750.0,74.0,3 habitaciones,1 aseo,cuarto,Madrid,Alcorcón,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,650.0,84.0,2 habitaciones,1 aseo,primero,Toledo,Yuncos,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+duplex,good,700.0,35.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Menos de 1 km
+duplex,good,500.0,96.0,3 habitaciones,2 aseos,primero,Toledo,Esquivias,vista exterior,no tiene ascensor,no tiene planos,tiene fotos 360,Entre 30 y 40 km
+flat,good,600.0,85.0,2 habitaciones,1 aseo,bajo,Toledo,Yuncos,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,720.0,42.0,1 habitacion,1 aseo,cuarto,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,595.0,55.0,1 habitacion,1 aseo,primero,Madrid,Quijorna,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,700.0,45.0,1 habitacion,1 aseo,primero,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,750.0,90.0,3 habitaciones,1 aseo,tercero,Guadalajara,Guadalajara,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,500.0,45.0,1 habitacion,1 aseo,desconocido,Madrid,Valdemorillo,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,750.0,149.0,2 habitaciones,2 aseos,bajo,Toledo,Illescas,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,625.0,89.0,2 habitaciones,2 aseos,tercero,Toledo,Seseña,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,700.0,75.0,2 habitaciones,1 aseo,primero,Madrid,Aranjuez,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,550.0,100.0,3 habitaciones,2 aseos,bajo,Toledo,Yuncler,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+duplex,good,675.0,87.0,2 habitaciones,2 aseos,segundo,Madrid,Miraflores de la Sierra,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,650.0,45.0,1 habitacion,1 aseo,bajo,Madrid,Pedrezuela,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+studio,good,750.0,55.0,sin habitaciones,1 aseo,segundo,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Menos de 1 km
+studio,good,720.0,45.0,sin habitaciones,1 aseo,quinto,Madrid,San Sebastián de los Reyes,vista exterior,tiene ascensor,tiene planos,tiene fotos 360,Entre 10 y 20 km
+flat,newdevelopment,624.0,45.0,1 habitacion,1 aseo,desconocido,Madrid,Valdemoro,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,newdevelopment,633.0,45.0,1 habitacion,1 aseo,desconocido,Madrid,Valdemoro,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 20 y 30 km
+studio,good,640.0,33.0,sin habitaciones,1 aseo,segundo,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,645.0,84.0,2 habitaciones,2 aseos,segundo,Madrid,Aranjuez,vista exterior,tiene ascensor,no tiene planos,tiene fotos 360,Entre 40 y 50 km
+flat,good,750.0,46.0,1 habitacion,1 aseo,tercero,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 1 y 5 km
+studio,good,735.0,35.0,sin habitaciones,1 aseo,primero,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,tiene fotos 360,Entre 10 y 20 km
+flat,desconocido,600.0,55.0,1 habitacion,1 aseo,desconocido,Madrid,Daganzo de Arriba,vista exterior,desconocido,desconocido,desconocido,Entre 20 y 30 km
+flat,good,750.0,75.0,3 habitaciones,1 aseo,desconocido,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+penthouse,good,600.0,25.0,1 habitacion,1 aseo,quinto,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,tiene fotos 360,Menos de 1 km
+flat,good,705.0,48.0,1 habitacion,1 aseo,cuarto,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,500.0,90.0,3 habitaciones,2 aseos,segundo,Toledo,Yeles,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,650.0,62.0,2 habitaciones,1 aseo,tercero,Madrid,Guadarrama,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,desconocido,550.0,106.0,2 habitaciones,1 aseo,desconocido,Toledo,Ocaña,vista exterior,desconocido,desconocido,desconocido,Mas de 50 km
+duplex,good,700.0,61.0,2 habitaciones,1 aseo,primero,Madrid,Cobeña,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+studio,good,650.0,40.0,sin habitaciones,1 aseo,entreplanta,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,700.0,40.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,730.0,51.0,2 habitaciones,1 aseo,cuarto,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,750.0,50.0,2 habitaciones,1 aseo,tercero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,680.0,56.0,2 habitaciones,1 aseo,tercero,Madrid,Torrejón de Ardoz,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 10 y 20 km
+flat,good,710.0,78.0,3 habitaciones,1 aseo,cuarto,Madrid,Parla,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 20 y 30 km
+flat,good,720.0,47.0,2 habitaciones,1 aseo,primero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+studio,good,750.0,43.0,sin habitaciones,1 aseo,desconocido,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,650.0,81.0,2 habitaciones,2 aseos,primero,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+studio,good,695.0,40.0,sin habitaciones,1 aseo,desconocido,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,desconocido,630.0,54.0,1 habitacion,2 aseos,desconocido,Madrid,El Álamo,vista exterior,desconocido,desconocido,desconocido,Entre 30 y 40 km
+flat,good,750.0,90.0,3 habitaciones,1 aseo,desconocido,Madrid,Algete,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,730.0,50.0,1 habitacion,1 aseo,segundo,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,600.0,90.0,3 habitaciones,1 aseo,desconocido,Madrid,Valdemoro,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+studio,good,650.0,45.0,sin habitaciones,1 aseo,bajo,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,750.0,38.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Menos de 1 km
+flat,good,600.0,90.0,3 habitaciones,2 aseos,desconocido,Guadalajara,El Casar,vista interior,desconocido,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,730.0,50.0,1 habitacion,1 aseo,desconocido,Madrid,Rivas-Vaciamadrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,550.0,90.0,3 habitaciones,2 aseos,desconocido,Toledo,Yuncler,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+penthouse,good,550.0,80.0,2 habitaciones,1 aseo,segundo,Toledo,Yeles,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Entre 30 y 40 km
+studio,good,735.0,30.0,sin habitaciones,1 aseo,segundo,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,tiene fotos 360,Entre 10 y 20 km
+flat,good,610.0,72.0,1 habitacion,1 aseo,bajo,Madrid,Pinto,vista interior,tiene ascensor,tiene planos,tiene fotos 360,Entre 10 y 20 km
+flat,good,550.0,70.0,2 habitaciones,1 aseo,desconocido,Toledo,Cedillo del Condado,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+chalet,good,580.0,54.0,3 habitaciones,2 aseos,desconocido,Madrid,Los Santos de la Humosa,vista interior,desconocido,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,725.0,50.0,1 habitacion,1 aseo,entreplanta,Madrid,Villanueva del Pardillo,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,750.0,48.0,1 habitacion,1 aseo,primero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,750.0,70.0,3 habitaciones,1 aseo,segundo,Madrid,Alcalá de Henares,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,750.0,49.0,1 habitacion,1 aseo,septimo,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,730.0,60.0,3 habitaciones,1 aseo,tercero,Madrid,Parla,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 20 y 30 km
+flat,good,560.0,26.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,tiene fotos 360,Menos de 1 km
+studio,desconocido,700.0,23.0,sin habitaciones,1 aseo,desconocido,Madrid,Madrid,vista exterior,desconocido,desconocido,desconocido,Entre 1 y 5 km
+flat,good,750.0,80.0,3 habitaciones,1 aseo,segundo,Madrid,San Fernando de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,730.0,70.0,3 habitaciones,1 aseo,tercero,Madrid,Pinto,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 10 y 20 km
+flat,good,730.0,52.0,2 habitaciones,1 aseo,cuarto,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,740.0,64.0,2 habitaciones,1 aseo,tercero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,720.0,65.0,2 habitaciones,1 aseo,segundo,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,720.0,63.0,2 habitaciones,1 aseo,segundo,Madrid,Torrejón de Ardoz,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 10 y 20 km
+flat,good,740.0,54.0,2 habitaciones,1 aseo,primero,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,720.0,52.0,2 habitaciones,1 aseo,tercero,Madrid,Getafe,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 10 y 20 km
+flat,good,730.0,45.0,2 habitaciones,1 aseo,tercero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 1 y 5 km
+duplex,desconocido,600.0,80.0,1 habitacion,1 aseo,desconocido,Madrid,Madrid,vista interior,desconocido,desconocido,desconocido,Entre 5 y 10 km
+duplex,desconocido,600.0,80.0,1 habitacion,1 aseo,desconocido,Madrid,Madrid,vista interior,desconocido,desconocido,desconocido,Entre 5 y 10 km
+duplex,good,725.0,71.0,2 habitaciones,1 aseo,primero,Madrid,Cobeña,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,675.0,76.0,3 habitaciones,1 aseo,segundo,Madrid,Aldea del Fresno,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 40 y 50 km
+flat,good,750.0,54.0,1 habitacion,1 aseo,tercero,Madrid,San Sebastián de los Reyes,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+duplex,good,750.0,79.0,2 habitaciones,2 aseos,primero,Madrid,Collado Villalba,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,700.0,54.0,1 habitacion,1 aseo,segundo,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,750.0,54.0,2 habitaciones,1 aseo,tercero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,730.0,48.0,2 habitaciones,1 aseo,tercero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,650.0,61.0,2 habitaciones,1 aseo,cuarto,Madrid,Alcalá de Henares,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 20 y 30 km
+flat,good,730.0,63.0,2 habitaciones,1 aseo,primero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,720.0,50.0,2 habitaciones,1 aseo,segundo,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,720.0,51.0,2 habitaciones,1 aseo,primero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,750.0,47.0,2 habitaciones,1 aseo,primero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 1 y 5 km
+flat,good,730.0,50.0,2 habitaciones,1 aseo,tercero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,730.0,40.0,2 habitaciones,1 aseo,segundo,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 1 y 5 km
+flat,good,670.0,67.0,2 habitaciones,1 aseo,primero,Madrid,Valdemoro,vista exterior,tiene ascensor,tiene planos,tiene fotos 360,Entre 20 y 30 km
+flat,good,740.0,52.0,2 habitaciones,1 aseo,tercero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 1 y 5 km
+flat,good,720.0,69.0,2 habitaciones,1 aseo,primero,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,tiene planos,tiene fotos 360,Entre 20 y 30 km
+flat,good,750.0,59.0,2 habitaciones,1 aseo,cuarto,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,740.0,45.0,2 habitaciones,1 aseo,tercero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,740.0,60.0,2 habitaciones,1 aseo,primero,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+studio,good,730.0,45.0,sin habitaciones,1 aseo,desconocido,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Menos de 1 km
+flat,good,620.0,75.0,3 habitaciones,1 aseo,desconocido,Madrid,Parla,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,695.0,67.0,2 habitaciones,1 aseo,desconocido,Madrid,Fuenlabrada,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,650.0,95.0,3 habitaciones,1 aseo,desconocido,Madrid,Navalcarnero,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,675.0,68.0,2 habitaciones,1 aseo,desconocido,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,695.0,65.0,2 habitaciones,1 aseo,desconocido,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,750.0,111.0,2 habitaciones,2 aseos,sexto,Madrid,Parla,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,desconocido,675.0,35.0,1 habitacion,1 aseo,desconocido,Madrid,Madrid,vista interior,desconocido,desconocido,desconocido,Entre 1 y 5 km
+flat,good,730.0,60.0,3 habitaciones,1 aseo,tercero,Madrid,Parla,vista interior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 20 y 30 km
+flat,good,690.0,85.0,2 habitaciones,1 aseo,desconocido,Madrid,Parla,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,750.0,45.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,650.0,87.0,2 habitaciones,2 aseos,tercero,Toledo,Seseña,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 30 y 40 km
+studio,good,600.0,32.0,sin habitaciones,1 aseo,primero,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,450.0,60.0,1 habitacion,1 aseo,primero,Toledo,Yeles,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 30 y 40 km
+studio,newdevelopment,723.0,25.0,sin habitaciones,1 aseo,desconocido,Madrid,Rivas-Vaciamadrid,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,620.0,87.0,2 habitaciones,2 aseos,primero,Toledo,Seseña,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,400.0,55.0,1 habitacion,1 aseo,primero,Toledo,Yeles,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,500.0,115.0,3 habitaciones,2 aseos,segundo,Toledo,Fuensalida,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,650.0,95.0,2 habitaciones,2 aseos,cuarto,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,725.0,50.0,1 habitacion,1 aseo,primero,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,desconocido,750.0,67.0,3 habitaciones,1 aseo,desconocido,Madrid,Getafe,vista exterior,desconocido,desconocido,desconocido,Entre 10 y 20 km
+flat,desconocido,600.0,45.0,2 habitaciones,1 aseo,desconocido,Madrid,Mataelpino,vista exterior,desconocido,desconocido,desconocido,Entre 40 y 50 km
+flat,good,750.0,70.0,3 habitaciones,1 aseo,segundo,Madrid,San Fernando de Henares,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+penthouse,good,450.0,60.0,1 habitacion,1 aseo,desconocido,Madrid,Villa del Prado,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,550.0,105.0,3 habitaciones,1 aseo,segundo,Toledo,El Viso de San Juan,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,720.0,54.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 1 y 5 km
+penthouse,good,550.0,75.0,2 habitaciones,2 aseos,desconocido,Madrid,Villa del Prado,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,720.0,49.0,3 habitaciones,1 aseo,tercero,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,740.0,65.0,3 habitaciones,1 aseo,primero,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,desconocido,660.0,155.0,3 habitaciones,2 aseos,desconocido,Madrid,Aranjuez,vista interior,desconocido,desconocido,desconocido,Entre 40 y 50 km
+flat,good,720.0,56.0,2 habitaciones,1 aseo,cuarto,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,650.0,31.0,1 habitacion,1 aseo,tercero,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,650.0,96.0,2 habitaciones,1 aseo,tercero,Madrid,Aranjuez,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 40 y 50 km
+flat,good,660.0,168.0,4 habitaciones,2 aseos,tercero,Madrid,Aranjuez,vista interior,tiene ascensor,tiene planos,tiene fotos 360,Entre 40 y 50 km
+flat,good,690.0,64.0,2 habitaciones,1 aseo,bajo,Madrid,Alcalá de Henares,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+studio,good,750.0,25.0,sin habitaciones,1 aseo,quinto,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 1 y 5 km
+chalet,good,750.0,216.0,3 habitaciones,2 aseos,desconocido,Toledo,Mocejón,vista interior,desconocido,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,725.0,45.0,1 habitacion,1 aseo,segundo,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,620.0,85.0,1 habitacion,1 aseo,bajo,Madrid,Pinto,vista interior,tiene ascensor,tiene planos,tiene fotos 360,Entre 10 y 20 km
+flat,good,590.0,52.0,1 habitacion,1 aseo,bajo,Madrid,Los Molinos,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+penthouse,good,750.0,80.0,sin habitaciones,1 aseo,primero,Madrid,Tres Cantos,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+studio,good,720.0,36.0,sin habitaciones,1 aseo,segundo,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,700.0,82.0,2 habitaciones,1 aseo,tercero,Madrid,San Lorenzo de el Escorial,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,750.0,155.0,3 habitaciones,2 aseos,bajo,Toledo,Illescas,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,newdevelopment,692.0,83.0,2 habitaciones,2 aseos,desconocido,Madrid,Torrejón de Ardoz,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,newdevelopment,670.0,79.0,2 habitaciones,2 aseos,desconocido,Madrid,Torrejón de Ardoz,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,newdevelopment,609.0,56.0,1 habitacion,1 aseo,bajo,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,newdevelopment,718.0,86.0,2 habitaciones,2 aseos,desconocido,Madrid,Torrejón de Ardoz,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,newdevelopment,694.0,81.0,2 habitaciones,2 aseos,desconocido,Madrid,Torrejón de Ardoz,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,newdevelopment,658.0,78.0,2 habitaciones,2 aseos,desconocido,Madrid,Torrejón de Ardoz,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,750.0,36.0,2 habitaciones,1 aseo,segundo,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,newdevelopment,723.0,88.0,2 habitaciones,2 aseos,desconocido,Madrid,Torrejón de Ardoz,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,newdevelopment,728.0,91.0,2 habitaciones,2 aseos,desconocido,Madrid,Torrejón de Ardoz,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 20 y 30 km
+studio,good,650.0,28.0,sin habitaciones,1 aseo,bajo,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,tiene fotos 360,Entre 1 y 5 km
+flat,good,750.0,60.0,2 habitaciones,1 aseo,primero,Madrid,Alcalá de Henares,vista interior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,735.0,60.0,3 habitaciones,1 aseo,cuarto,Madrid,Parla,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 20 y 30 km
+penthouse,good,699.0,78.0,2 habitaciones,1 aseo,segundo,Madrid,Colmenar Viejo,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,725.0,67.0,3 habitaciones,1 aseo,cuarto,Madrid,Móstoles,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 10 y 20 km
+flat,good,740.0,77.0,3 habitaciones,2 aseos,bajo,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,tiene planos,tiene fotos 360,Entre 20 y 30 km
+chalet,good,700.0,238.0,4 habitaciones,3 aseos,desconocido,Toledo,Yeles,vista interior,desconocido,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,720.0,73.0,1 habitacion,1 aseo,segundo,Madrid,Collado Villalba,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,750.0,79.0,3 habitaciones,1 aseo,entreplanta,Madrid,Getafe,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+penthouse,good,660.0,66.0,1 habitacion,1 aseo,octavo,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,710.0,66.0,3 habitaciones,1 aseo,cuarto,Madrid,Parla,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 20 y 30 km
+flat,good,725.0,62.0,2 habitaciones,1 aseo,tercero,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,750.0,46.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,750.0,61.0,2 habitaciones,1 aseo,primero,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,730.0,161.0,4 habitaciones,1 aseo,tercero,Madrid,Aranjuez,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 40 y 50 km
+flat,good,495.0,90.0,3 habitaciones,2 aseos,bajo,Toledo,Borox,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,720.0,110.0,2 habitaciones,1 aseo,desconocido,Madrid,Parla,vista interior,tiene ascensor,tiene planos,tiene fotos 360,Entre 20 y 30 km
+flat,good,720.0,48.0,2 habitaciones,1 aseo,bajo,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 1 y 5 km
+flat,good,700.0,57.0,2 habitaciones,1 aseo,cuarto,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+duplex,good,750.0,75.0,2 habitaciones,2 aseos,primero,Madrid,Cobeña,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+studio,good,610.0,26.0,sin habitaciones,1 aseo,tercero,Madrid,Madrid,vista interior,tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,740.0,52.0,2 habitaciones,1 aseo,cuarto,Madrid,Móstoles,vista interior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 10 y 20 km
+flat,good,715.0,62.0,2 habitaciones,1 aseo,bajo,Madrid,Colmenar Viejo,vista exterior,tiene ascensor,no tiene planos,tiene fotos 360,Entre 20 y 30 km
+flat,good,550.0,57.0,2 habitaciones,1 aseo,bajo,Madrid,Aranjuez,vista interior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 40 y 50 km
+flat,good,710.0,36.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 1 y 5 km
+flat,good,730.0,51.0,2 habitaciones,1 aseo,segundo,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+studio,good,750.0,23.0,sin habitaciones,1 aseo,octavo,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,690.0,33.0,1 habitacion,1 aseo,tercero,Madrid,Madrid,vista interior,tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,740.0,73.0,3 habitaciones,1 aseo,cuarto,Madrid,Parla,vista exterior,tiene ascensor,tiene planos,tiene fotos 360,Entre 20 y 30 km
+duplex,good,750.0,66.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,720.0,44.0,3 habitaciones,1 aseo,segundo,Madrid,Madrid,vista interior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,475.0,79.0,2 habitaciones,2 aseos,segundo,Madrid,Navalafuente,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,740.0,41.0,2 habitaciones,1 aseo,segundo,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 1 y 5 km
+flat,good,740.0,57.0,1 habitacion,1 aseo,primero,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,tiene fotos 360,Entre 1 y 5 km
+flat,good,740.0,62.0,2 habitaciones,1 aseo,primero,Madrid,Colmenar Viejo,vista exterior,tiene ascensor,no tiene planos,tiene fotos 360,Entre 20 y 30 km
+flat,good,700.0,74.0,2 habitaciones,1 aseo,cuarto,Madrid,Getafe,vista interior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,730.0,35.0,1 habitacion,1 aseo,segundo,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Menos de 1 km
+studio,good,700.0,28.0,sin habitaciones,1 aseo,tercero,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+chalet,good,600.0,180.0,3 habitaciones,2 aseos,desconocido,Madrid,Meco,vista interior,desconocido,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,470.0,80.0,1 habitacion,1 aseo,primero,Toledo,Fuensalida,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,550.0,76.0,2 habitaciones,1 aseo,segundo,Toledo,Yuncos,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,750.0,109.0,2 habitaciones,2 aseos,tercero,Madrid,Valdemoro,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,749.0,38.0,1 habitacion,1 aseo,segundo,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,tiene fotos 360,Entre 5 y 10 km
+studio,good,700.0,30.0,sin habitaciones,1 aseo,bajo,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,667.0,70.0,1 habitacion,1 aseo,octavo,Madrid,Parla,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,725.0,45.0,1 habitacion,1 aseo,primero,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+penthouse,good,550.0,70.0,3 habitaciones,1 aseo,tercero,Madrid,Robledo de Chavela,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,695.0,55.0,3 habitaciones,1 aseo,cuarto,Madrid,Parla,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 10 y 20 km
+flat,good,675.0,84.0,2 habitaciones,2 aseos,segundo,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,750.0,105.0,3 habitaciones,1 aseo,primero,Madrid,Campo Real,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,699.0,52.0,1 habitacion,1 aseo,tercero,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+studio,good,750.0,32.0,sin habitaciones,1 aseo,decimo cuarto,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,730.0,80.0,3 habitaciones,1 aseo,cuarto,Madrid,Collado Villalba,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,340.0,50.0,1 habitacion,1 aseo,primero,Toledo,Fuensalida,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,710.0,30.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 1 y 5 km
+flat,good,650.0,58.0,1 habitacion,1 aseo,cuarto,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+countryHouse,renew,600.0,60.0,2 habitaciones,2 aseos,desconocido,Madrid,Villaviciosa de Odón,vista interior,desconocido,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,740.0,41.0,2 habitaciones,1 aseo,tercero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,525.0,40.0,1 habitacion,1 aseo,tercero,Madrid,Aranjuez,vista exterior,tiene ascensor,tiene planos,tiene fotos 360,Entre 40 y 50 km
+studio,good,750.0,35.0,sin habitaciones,1 aseo,cuarto,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,750.0,74.0,3 habitaciones,1 aseo,segundo,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,tiene planos,tiene fotos 360,Entre 20 y 30 km
+flat,good,685.0,84.0,2 habitaciones,2 aseos,sexto,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,710.0,69.0,3 habitaciones,1 aseo,quinto,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,tiene planos,tiene fotos 360,Entre 20 y 30 km
+studio,good,560.0,46.0,sin habitaciones,1 aseo,bajo,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,tiene fotos 360,Entre 1 y 5 km
+duplex,good,500.0,70.0,3 habitaciones,2 aseos,segundo,Toledo,Casarrubios del Monte,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,600.0,42.0,1 habitacion,1 aseo,bajo,Madrid,Torrejón de Ardoz,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+penthouse,good,600.0,69.0,3 habitaciones,1 aseo,cuarto,Segovia,El Espinar,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,460.0,85.0,1 habitacion,1 aseo,primero,Toledo,Casarrubios del Monte,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,desconocido,460.0,55.0,1 habitacion,1 aseo,desconocido,Toledo,Mocejón,vista exterior,desconocido,desconocido,desconocido,Mas de 50 km
+flat,good,720.0,44.0,1 habitacion,1 aseo,sotano,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,750.0,60.0,2 habitaciones,1 aseo,desconocido,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,750.0,42.0,1 habitacion,1 aseo,cuarto,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+studio,good,750.0,90.0,sin habitaciones,1 aseo,cuarto,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+studio,good,650.0,45.0,sin habitaciones,1 aseo,bajo,Madrid,Madrid,vista interior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,650.0,59.0,1 habitacion,1 aseo,segundo,Madrid,Parla,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,670.0,75.0,2 habitaciones,1 aseo,tercero,Madrid,Arganda,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,600.0,70.0,3 habitaciones,1 aseo,segundo,Segovia,San Ildefonso o la Granja,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,newdevelopment,650.0,45.0,1 habitacion,1 aseo,segundo,Madrid,Getafe,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 10 y 20 km
+duplex,desconocido,600.0,70.0,2 habitaciones,1 aseo,desconocido,Toledo,Alameda de la Sagra,vista exterior,desconocido,desconocido,desconocido,Entre 40 y 50 km
+flat,good,750.0,32.0,1 habitacion,1 aseo,segundo,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,desconocido,725.0,50.0,1 habitacion,1 aseo,desconocido,Madrid,Madrid,vista exterior,desconocido,desconocido,desconocido,Entre 5 y 10 km
+studio,good,620.0,20.0,sin habitaciones,1 aseo,primero,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,500.0,125.0,3 habitaciones,2 aseos,tercero,Segovia,El Espinar,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,400.0,100.0,3 habitaciones,2 aseos,segundo,Toledo,Cabañas de la Sagra,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,680.0,35.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,750.0,87.0,3 habitaciones,1 aseo,bajo,Madrid,Coslada,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,350.0,53.0,1 habitacion,1 aseo,primero,Ávila,Las Navas del Marqués,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,400.0,128.0,4 habitaciones,2 aseos,cuarto,Toledo,Villaseca de la Sagra,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,newdevelopment,670.0,53.0,1 habitacion,1 aseo,primero,Madrid,Getafe,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,desconocido,600.0,75.0,3 habitaciones,1 aseo,desconocido,Madrid,Alcalá de Henares,vista exterior,desconocido,desconocido,desconocido,Entre 20 y 30 km
+flat,good,750.0,70.0,2 habitaciones,1 aseo,cuarto,Madrid,Alcorcón,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,660.0,91.0,2 habitaciones,2 aseos,quinto,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,700.0,36.0,2 habitaciones,1 aseo,tercero,Madrid,Pozuelo de Alarcón,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,695.0,58.0,1 habitacion,1 aseo,primero,Madrid,Madrid,vista interior,tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,710.0,66.0,1 habitacion,1 aseo,segundo,Madrid,Arganda,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+duplex,good,700.0,120.0,3 habitaciones,3 aseos,desconocido,Guadalajara,Yebes,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,620.0,80.0,2 habitaciones,1 aseo,segundo,Madrid,Bustarviejo,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,475.0,46.0,1 habitacion,1 aseo,bajo,Segovia,San Ildefonso o la Granja,vista interior,no tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,500.0,100.0,3 habitaciones,1 aseo,tercero,Toledo,Fuensalida,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,700.0,80.0,3 habitaciones,1 aseo,primero,Madrid,Collado Mediano,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,715.0,89.0,3 habitaciones,1 aseo,bajo,Madrid,Chinchón,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,650.0,70.0,2 habitaciones,1 aseo,tercero,Guadalajara,Guadalajara,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,750.0,50.0,1 habitacion,1 aseo,primero,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,750.0,45.0,1 habitacion,1 aseo,segundo,Madrid,Madrid,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,430.0,60.0,1 habitacion,1 aseo,primero,Toledo,Valmojado,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+penthouse,good,380.0,50.0,1 habitacion,1 aseo,quinto,Segovia,San Ildefonso o la Granja,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+studio,good,550.0,25.0,sin habitaciones,1 aseo,bajo,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,550.0,71.0,1 habitacion,1 aseo,bajo,Segovia,San Ildefonso o la Granja,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,730.0,60.0,1 habitacion,1 aseo,desconocido,Madrid,Colmenar Viejo,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+chalet,good,700.0,189.0,4 habitaciones,3 aseos,desconocido,Toledo,Camarena,vista interior,desconocido,no tiene planos,no tiene fotos 360,Mas de 50 km
+penthouse,good,750.0,46.0,2 habitaciones,1 aseo,cuarto,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,500.0,80.0,2 habitaciones,1 aseo,desconocido,Segovia,El Espinar,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,700.0,45.0,1 habitacion,1 aseo,bajo,Madrid,Coslada,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,renew,680.0,85.0,2 habitaciones,1 aseo,bajo,Madrid,Coslada,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,700.0,97.0,2 habitaciones,2 aseos,sexto,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,600.0,28.0,1 habitacion,1 aseo,cuarto,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,620.0,97.0,2 habitaciones,2 aseos,primero,Toledo,Seseña,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+duplex,good,750.0,100.0,2 habitaciones,2 aseos,desconocido,Guadalajara,Guadalajara,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,550.0,79.0,2 habitaciones,2 aseos,primero,Toledo,Ocaña,vista exterior,tiene ascensor,tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,690.0,88.0,2 habitaciones,2 aseos,segundo,Guadalajara,Alovera,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,750.0,80.0,2 habitaciones,1 aseo,primero,Madrid,Colmenarejo,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,700.0,62.0,1 habitacion,1 aseo,segundo,Madrid,Alcorcón,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,690.0,77.0,2 habitaciones,1 aseo,bajo,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,700.0,50.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,750.0,87.0,2 habitaciones,1 aseo,quinto,Madrid,Coslada,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,650.0,176.0,3 habitaciones,2 aseos,primero,Toledo,Lominchar,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,735.0,51.0,1 habitacion,1 aseo,cuarto,Madrid,Getafe,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,700.0,80.0,3 habitaciones,1 aseo,quinto,Madrid,Móstoles,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,725.0,75.0,3 habitaciones,1 aseo,desconocido,Madrid,Fuenlabrada,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+penthouse,good,675.0,80.0,2 habitaciones,1 aseo,tercero,Guadalajara,Guadalajara,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,733.0,68.4,2 habitaciones,1 aseo,segundo,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,750.0,36.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,675.0,69.0,2 habitaciones,1 aseo,bajo,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,650.0,85.0,2 habitaciones,1 aseo,segundo,Madrid,Guadarrama,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,730.0,52.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,700.0,97.0,1 habitacion,1 aseo,bajo,Madrid,Loeches,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,650.0,87.0,2 habitaciones,2 aseos,tercero,Toledo,Seseña,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+studio,good,690.0,38.0,sin habitaciones,1 aseo,segundo,Madrid,Madrid,vista interior,tiene ascensor,tiene planos,tiene fotos 360,Entre 5 y 10 km
+flat,good,700.0,70.0,2 habitaciones,1 aseo,primero,Madrid,Guadarrama,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+duplex,good,600.0,89.0,2 habitaciones,2 aseos,segundo,Madrid,Miraflores de la Sierra,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+studio,good,700.0,25.0,sin habitaciones,1 aseo,bajo,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene fotos 360,Menos de 1 km
+flat,good,690.0,60.0,2 habitaciones,1 aseo,bajo,Madrid,Sevilla la Nueva,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,620.0,98.0,2 habitaciones,2 aseos,primero,Guadalajara,Yebes,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+duplex,good,750.0,114.0,3 habitaciones,3 aseos,primero,Madrid,Serranillos del Valle,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+chalet,good,750.0,160.0,3 habitaciones,3 aseos,desconocido,Toledo,Santa Cruz del Retamar,vista interior,desconocido,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,700.0,95.0,2 habitaciones,2 aseos,primero,Guadalajara,Guadalajara,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,605.0,87.0,2 habitaciones,2 aseos,segundo,Guadalajara,Yebes,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,645.0,104.0,2 habitaciones,2 aseos,segundo,Guadalajara,Yebes,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,750.0,104.0,2 habitaciones,2 aseos,bajo,Guadalajara,Yebes,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+studio,good,700.0,51.0,sin habitaciones,1 aseo,bajo,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,670.0,61.0,1 habitacion,1 aseo,bajo,Madrid,Collado Villalba,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,700.0,75.0,2 habitaciones,2 aseos,tercero,Guadalajara,Guadalajara,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,750.0,80.0,2 habitaciones,1 aseo,cuarto,Madrid,Valdemoro,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+countryHouse,good,750.0,341.0,2 habitaciones,1 aseo,desconocido,Toledo,Las Ventas de Retamosa,vista interior,desconocido,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+studio,good,740.0,33.0,sin habitaciones,1 aseo,bajo,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,750.0,110.0,4 habitaciones,2 aseos,primero,Madrid,Colmenar Viejo,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,750.0,62.0,2 habitaciones,1 aseo,tercero,Madrid,Madrid,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Entre 5 y 10 km
+studio,good,750.0,70.0,sin habitaciones,1 aseo,bajo,Madrid,San Sebastián de los Reyes,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+studio,good,650.0,28.0,sin habitaciones,1 aseo,bajo,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,625.0,51.0,1 habitacion,1 aseo,segundo,Madrid,Arganda,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,700.0,35.0,1 habitacion,1 aseo,bajo,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,525.0,57.0,1 habitacion,1 aseo,segundo,Toledo,Illescas,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,750.0,95.0,2 habitaciones,2 aseos,primero,Madrid,Colmenarejo,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,600.0,120.0,2 habitaciones,2 aseos,bajo,Guadalajara,Yebes,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Mas de 50 km
+flat,good,725.0,108.0,3 habitaciones,2 aseos,primero,Guadalajara,Alovera,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+studio,good,600.0,25.0,sin habitaciones,1 aseo,bajo,Madrid,Madrid,vista interior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,480.0,80.0,2 habitaciones,1 aseo,primero,Toledo,Las Ventas de Retamosa,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,750.0,89.0,2 habitaciones,2 aseos,segundo,Madrid,Getafe,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,700.0,55.0,1 habitacion,1 aseo,primero,Madrid,Valdemorillo,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,750.0,90.0,3 habitaciones,2 aseos,segundo,Madrid,Campo Real,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,750.0,48.0,2 habitaciones,1 aseo,segundo,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,625.0,57.0,2 habitaciones,1 aseo,bajo,Madrid,Aranjuez,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,750.0,46.0,1 habitacion,1 aseo,primero,Madrid,San Sebastián de los Reyes,vista exterior,no tiene ascensor,tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,695.0,59.0,1 habitacion,1 aseo,cuarto,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,450.0,40.0,1 habitacion,1 aseo,primero,Madrid,Robledo de Chavela,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,720.0,58.0,2 habitaciones,1 aseo,bajo,Madrid,Alcorcón,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
+flat,good,745.0,73.0,2 habitaciones,1 aseo,segundo,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,720.0,69.6,2 habitaciones,1 aseo,segundo,Madrid,Alcalá de Henares,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,750.0,55.0,2 habitaciones,1 aseo,primero,Madrid,Madrid,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+studio,good,720.0,48.0,sin habitaciones,1 aseo,primero,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+studio,good,725.0,44.0,sin habitaciones,1 aseo,octavo,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 1 y 5 km
+flat,good,750.0,80.0,2 habitaciones,1 aseo,quinto,Madrid,Madrid,vista interior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,550.0,86.0,2 habitaciones,1 aseo,primero,Madrid,Torrelaguna,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 40 y 50 km
+flat,good,640.0,69.0,2 habitaciones,1 aseo,segundo,Madrid,Villalbilla,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 20 y 30 km
+flat,good,700.0,54.0,1 habitacion,1 aseo,primero,Madrid,Getafe,vista exterior,tiene ascensor,tiene planos,tiene fotos 360,Entre 10 y 20 km
+flat,good,700.0,59.0,1 habitacion,1 aseo,sexto,Madrid,Madrid,vista exterior,tiene ascensor,no tiene planos,no tiene fotos 360,Entre 5 y 10 km
+flat,good,700.0,75.0,2 habitaciones,1 aseo,primero,Madrid,Alcalá de Henares,vista exterior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 30 y 40 km
+flat,good,695.0,62.0,2 habitaciones,1 aseo,tercero,Madrid,Alcobendas,vista interior,no tiene ascensor,no tiene planos,no tiene fotos 360,Entre 10 y 20 km
