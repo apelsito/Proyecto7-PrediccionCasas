@@ -1,4 +1,4 @@
-# Información Sobre el Modelo 2
+# Información Sobre el Modelo 3
 
 ## Basado en el Modelo 2
 
