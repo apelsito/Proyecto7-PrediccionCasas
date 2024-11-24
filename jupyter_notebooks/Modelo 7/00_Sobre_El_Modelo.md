@@ -1,8 +1,9 @@
 # Información Sobre el Modelo 7
 
-## Basado en el Modelo 6
+## Basado en el Modelo 1
 
-## Cambios respecto al Modelo 6
-- Hemos categorizado size: Había 67 tamaños disntintos, esto puede dar lugar a demasiada especificación
+## Cambios respecto al Modelo 1
+- Gestionamos los nulos como en el Modelo 5
+- Eliminar province
 
 

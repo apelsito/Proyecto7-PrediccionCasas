@@ -165,8 +165,8 @@ def relacion_vr_numericas(dataframe,variable_respuesta,paleta="mako",grafica_siz
     else:
         pass
     
-def matriz_correlacion(dataframe):
-    plt.figure(figsize=(10,7))
+def matriz_correlacion(dataframe, grafica_size=(10,7)):
+    plt.figure(figsize=grafica_size)
     matriz_corr = dataframe.corr(numeric_only=True)
     mascara = np.triu(np.ones_like(matriz_corr,dtype = np.bool_))
     sns.heatmap(matriz_corr,
