@@ -177,7 +177,7 @@ cd Proyecto7-PrediccionCasas
 
 ### Pasos:
 1. **Identificación de Outliers**:
-   - Uso de métodos como IQR y Z-Score para detectar valores atípicos.
+   - Uso de métodos como IQR, Local Outlier Factor e Isolation Forest para detectar valores atípicos.
 
 2. **Tratamiento de Outliers**:
    - Imputación o eliminación según su impacto en las distribuciones y relaciones.
