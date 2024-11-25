@@ -364,75 +364,92 @@ cd Proyecto7-PrediccionCasas
 ![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo12_Decision_Tree.png)
 
 ### Observaciones:
-- Basado en el **Modelo 8**
-- Cambios Respecto Modelo 8:
-    - Eliminamos status
+- Basado en el **Modelo 11**
+- Cambios Respecto Modelo 11:
+    - Hemos categorizado los municipios por su clase economica
+        - clase alta
+        - clase media-alta
+        - clase media
+        - clase obrera
 
 ## 13. Modelo 13
 
 ![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo13_Decision_Tree.png)
 
 ### Observaciones:
-- Basado en el **Modelo 8**
-- Cambios Respecto Modelo 8:
-    - Eliminamos status
+- Basado en el **Modelo 12**
+- Cambios Respecto Modelo 12:
+    - Eliminamos columnas que considero no aportan
+        - has360
+        - hasPlan
 
 ## 14. Modelo 14
 
 ![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo14_Decision_Tree.png)
 
 ### Observaciones:
-- Basado en el **Modelo 8**
-- Cambios Respecto Modelo 8:
-    - Eliminamos status
+- Basado en el **Modelo 13**
+- Cambios Respecto Modelo 13:
+    - Recategorizamos Floor a:
+        - Bajos (Sotano, entreplanta, primero)
+        - Altos (Segundos en adelante)
+        - Otros (Desconocidos)
 
 ## 15. Modelo 15
 
 ![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo15_Decision_Tree.png)
 
 ### Observaciones:
-- Basado en el **Modelo 8**
-- Cambios Respecto Modelo 8:
-    - Eliminamos status
+- Basado en el **Modelo 14**
+- Cambios Respecto Modelo 14:
+    - Se restaura la columna "distancia_centro"
+    - Se quita la columna "exterior"
 
+## 15. Modelo 16
 
+![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo16_Decision_Tree.png)
 
+### Observaciones:
+- Basado en el **Modelo 15**
+- Cambios Respecto Modelo 15:
+   - Usando property, se rellenan desconocidos de:
+      - hasLift
+      - floor
+   - Se elimina columna distancia_centro
+      - Con la distancia al centro podemos predecir el precio
+   - Se elimina propertyType
+      - Según los baños y habitaciones + municipality se puede saber que tipo de casa sea
 
-# 📌 Conclusión
+## 15. Modelo 17
 
-Este análisis muestra cómo los precios de productos esenciales como la luz 💡, el gas 🔥 y los combustibles ⛽ han experimentado aumentos drásticos entre 2021 y 2022, impulsados por factores como la crisis energética, el conflicto en Ucrania 🇺🇦 y la alta demanda post-COVID 📈. La electricidad y el gas, en particular, han sido afectados por la dependencia de Europa en energías importadas y por la volatilidad en el mercado de emisiones de CO₂ 🌍. 
+![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo17_Decision_Tree.png)
 
-El agua 💧, en cambio, ha mostrado una mayor estabilidad, aunque también ha tenido un leve incremento en 2022.
+### Observaciones:
+- Basado en el **Modelo 16**
+- Cambios Respecto Modelo 16:
+   - Se categoriza size
+      - pequeños (0-40m2)
+      - medianos (41-100m2)
+      - grandes (>100m2)
+    
 
-## 💰 Impacto en el Costo de Vida
-El aumento en los precios de estos productos esenciales afecta directamente el coste de vida. Luz, gas y combustibles son bienes que no podemos dejar de consumir, y sus aumentos se reflejan en facturas más altas 🧾, lo cual reduce el poder adquisitivo y eleva el costo de vida 📉. Además, el incremento en el precio de la energía tiene un efecto en cadena, encareciendo también la producción y el transporte de bienes y servicios.
-
-En conclusión, el encarecimiento de estos bienes plantea un desafío para la economía doméstica, sobre todo para las familias con ingresos limitados. La presión sobre los presupuestos familiares obliga a reducir el gasto en otras áreas, afectando la calidad de vida general. Esto subraya la importancia de políticas que aseguren la accesibilidad y estabilidad de estos servicios básicos 🔄, para mitigar el impacto en la población y promover una vida más sostenible y accesible.
-
-# Próximos Pasos 🚀
-
-Para mejorar el análisis de precios y explorar patrones más detallados en los datos obtenidos, se plantean los siguientes pasos:
-
-1. **Ampliación del Análisis a Toda España**
-   - **Cobertura Nacional**: Extender el análisis de precios de agua, electricidad, gas y combustibles a todas las comunidades autónomas de España, con el fin de identificar variaciones regionales y obtener un panorama completo del mercado nacional.
-   - **Desglose Regional**: Incorporar un desglose detallado que permita comparar los precios entre diferentes regiones, resaltando áreas con costos más altos o bajos.
-
-2. **Solicitud de Información Detallada sobre Precios del Agua**
-   - **Fuentes Adicionales**: Contactar organismos que dispongan de datos más desagregados sobre precios de agua en cada comunidad o ciudad, lo que permitirá un análisis preciso.
-   - **Normalización de Datos**: Implementar un proceso de limpieza y normalización de datos del agua, asegurando que las comparaciones sean consistentes y precisas entre diferentes años y fuentes.
-
-3. **Comparación con Precios en Europa**
-   - **Análisis Comparativo Internacional**: Incorporar datos de precios de servicios (agua, electricidad, gas, combustibles) de otros países europeos para comparar la evolución de precios en España con la de otros países.
-   - **Identificación de Patrones Globales**: Observar si las variaciones de precios en España siguen tendencias similares en el resto de Europa, lo que puede ayudar a identificar factores externos (como conflictos geopolíticos o cambios en el mercado global) que impacten los precios.
-
-4. **Profundización en el Análisis Temporal y Estacional**
-   - **Estacionalidad y Tendencias**: Desarrollar análisis más detallados para observar patrones estacionales en los precios, especialmente en servicios con alta variabilidad, como los combustibles.
-   - **Predicción de Precios**: Utilizar modelos predictivos para anticipar posibles fluctuaciones en los precios de estos servicios y brindar un panorama a futuro.
-
-5. **Mejora de Visualizaciones y Reportes**
-   - **Visualizaciones Interactivas**: Implementar gráficos interactivos que permitan a los usuarios explorar los datos por comunidad autónoma, tipo de servicio y rango de fechas.
-   - **Reportes Automatizados**: Crear reportes periódicos que informen sobre cambios significativos en los precios, y detectar anomalías que puedan alertar sobre subidas o bajadas inusuales.
-
+## 15. Modelo 18
+### Decision Tree
+![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo18_Decision_Tree.png)
+### Gradient Boosting
+![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo18_Gradient_Boosting.png)
+### XGBoost
+![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo18_XgBoost.png)
+### Observaciones:
+- Basado en el **Modelo 1**
+- Cambios Respecto Modelo 1:
+   - Se eliminan columnas que no aportaban información al modelo para reducir información
+      - hasPlan
+      - has3DTour
+      - has360
+      - province
+      - exterior
+      - status
 
 # Contribuciones 🤝
 
