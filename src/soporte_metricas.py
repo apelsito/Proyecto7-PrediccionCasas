@@ -113,6 +113,41 @@ def generar_df_comparador(X_train,X_test,y_train,y_test,y_train_pred,y_test_pred
 
 
 def obtener_metricas(y_train,y_pred_train,y_test,y_pred_test):
+    """
+    Calcula y devuelve métricas de evaluación para un modelo de regresión en conjuntos de entrenamiento y prueba.
+
+    Parámetros:
+    -----------
+    y_train : array-like
+        Valores reales del conjunto de entrenamiento.
+    y_pred_train : array-like
+        Predicciones del modelo para el conjunto de entrenamiento.
+    y_test : array-like
+        Valores reales del conjunto de prueba.
+    y_pred_test : array-like
+        Predicciones del modelo para el conjunto de prueba.
+
+    Retorna:
+    --------
+    pd.DataFrame
+        DataFrame con las métricas de evaluación para los conjuntos de entrenamiento y prueba. 
+        Las métricas incluyen:
+            - r2_score: Coeficiente de determinación.
+            - MAE: Error absoluto medio.
+            - MSE: Error cuadrático medio.
+            - RMSE: Raíz cuadrada del error cuadrático medio.
+
+    Ejemplo:
+    --------
+    metricas = obtener_metricas(
+        y_train=y_train,
+        y_pred_train=y_pred_train,
+        y_test=y_test,
+        y_pred_test=y_pred_test
+    )
+    print(metricas)
+    """
+
     metricas = {
         'train': {
         'r2_score': r2_score(y_train, y_pred_train),

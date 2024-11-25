@@ -183,6 +183,37 @@ def identificar_outliers_z(dataframe, limite_desviaciones =3):
     return diccionario_outliers
 
 def visualizar_outliers_bivariados(dataframe, vr, tamano_grafica = (20, 15)):
+    """
+    Visualiza posibles valores atípicos en relaciones bivariadas entre una variable de referencia y otras variables numéricas.
+
+    Parámetros:
+    -----------
+    dataframe : pd.DataFrame
+        DataFrame que contiene las variables numéricas y la variable de referencia.
+    vr : str
+        Nombre de la variable de referencia que se usará en el eje X para las comparaciones.
+    tamano_grafica : tuple, opcional
+        Tamaño de la figura para los gráficos generados. Por defecto es (20, 15).
+
+    Retorna:
+    --------
+    None
+        No retorna ningún valor, pero genera un conjunto de diagramas de dispersión entre la variable de referencia y las demás variables numéricas.
+
+    Notas:
+    ------
+    - Se ignora la columna de la variable de referencia (`vr`) para los diagramas de dispersión.
+    - Si hay un número impar de columnas numéricas (incluyendo la variable de referencia), se elimina el último eje vacío para evitar espacios vacíos.
+    - Los gráficos permiten identificar relaciones y posibles valores atípicos entre la variable de referencia y las demás columnas numéricas.
+
+    Ejemplo:
+    --------
+    visualizar_outliers_bivariados(
+        dataframe=datos,
+        vr="precio",
+        tamano_grafica=(18, 12)
+    )
+    """
 
     df_num = dataframe.select_dtypes(include=np.number)
     num_cols = len(df_num.columns)

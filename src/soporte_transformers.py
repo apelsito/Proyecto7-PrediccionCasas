@@ -4,6 +4,32 @@ import numpy as np
 
 # Cargar los modelos y transformadores entrenados
 def load_models():
+    """
+    Carga modelos y transformadores previamente entrenados desde archivos pickle.
+
+    Retorna:
+    --------
+    tuple
+        Una tupla que contiene los siguientes objetos:
+            - target_encoder: Codificador para transformar la variable objetivo.
+            - one_hot_encoder: Codificador One-Hot para variables categóricas.
+            - robust_scaler: Escalador robusto para normalizar los datos.
+            - modelo: Modelo de aprendizaje automático (XGBoost en este caso).
+
+    Notas:
+    ------
+    - Los archivos deben estar ubicados en la carpeta `../datos/modelos-encoders/`.
+    - Se espera que los archivos tengan los nombres:
+        - `target_encoder.pkl`
+        - `one_hot_encoder.pkl`
+        - `robust_scaler.pkl`
+        - `modelo_xgb.pkl`
+
+    Ejemplo:
+    --------
+    target_encoder, one_hot_encoder, robust_scaler, modelo = load_models()
+    """
+
     with open('../datos/modelos-encoders/target_encoder.pkl', 'rb') as f:
         target_encoder = pickle.load(f)
     with open('../datos/modelos-encoders/one_hot_encoder.pkl', 'rb') as f:
@@ -44,6 +70,70 @@ def load_options():
 def realizar_prediccion(tipo_propiedad, prop_size, habitaciones, aseos, prop_floor, municipio, distrito, ascensor, dist_centro,
                         encoder_ordinales, encoder_nominales, scaler, modelo
                         ):
+    """
+    Realiza una predicción del precio de una propiedad basada en sus características utilizando un modelo entrenado.
+
+    Parámetros:
+    -----------
+    tipo_propiedad : str
+        Tipo de propiedad (e.g., "piso", "chalet", etc.).
+    prop_size : float
+        Tamaño de la propiedad en metros cuadrados.
+    habitaciones : int
+        Número de habitaciones de la propiedad.
+    aseos : int
+        Número de aseos en la propiedad.
+    prop_floor : int
+        Número de planta en la que se encuentra la propiedad.
+    municipio : str
+        Nombre del municipio donde se encuentra la propiedad.
+    distrito : str
+        Nombre del distrito donde se encuentra la propiedad.
+    ascensor : int
+        Indicador de si la propiedad tiene ascensor (1 para sí, 0 para no).
+    dist_centro : float
+        Distancia desde el centro de la ciudad en kilómetros.
+    encoder_ordinales : object
+        Codificador para variables ordinales (Target Encoder).
+    encoder_nominales : object
+        Codificador para variables nominales (OneHotEncoder).
+    scaler : object
+        Escalador para normalizar los datos (e.g., RobustScaler).
+    modelo : object
+        Modelo de aprendizaje automático entrenado para realizar la predicción.
+
+    Retorna:
+    --------
+    numpy.ndarray
+        Predicción del modelo para el precio de la propiedad.
+
+    Notas:
+    ------
+    - Las columnas se dividen en tres categorías:
+        - `cols_target`: Variables que serán codificadas con el Target Encoder.
+        - `cols_nominales`: Variables que serán codificadas con el OneHotEncoder.
+        - `cols_escalar`: Variables que serán escaladas antes de la predicción.
+    - El DataFrame `df_new` contiene las características de la propiedad y pasa por varias transformaciones antes de ser usado en el modelo.
+
+    Ejemplo:
+    --------
+    prediccion = realizar_prediccion(
+        tipo_propiedad="piso",
+        prop_size=80,
+        habitaciones=3,
+        aseos=2,
+        prop_floor=5,
+        municipio="Madrid",
+        distrito="Centro",
+        ascensor=1,
+        dist_centro=2.5,
+        encoder_ordinales=target_encoder,
+        encoder_nominales=one_hot_encoder,
+        scaler=robust_scaler,
+        modelo=modelo_xgb
+    )
+    print(f"El precio estimado es: {prediccion[0]}")
+    """
     
     cols_target = ["bathrooms","municipality","district","distancia_centro"]
     cols_nominales = ["propertyType","rooms","floor","hasLift"]

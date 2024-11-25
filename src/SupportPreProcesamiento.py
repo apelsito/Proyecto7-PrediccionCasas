@@ -69,9 +69,63 @@ def exploracion_dataframe(dataframe, columna_control, estadisticos = False):
         pass
 
 def separarar_df(dataframe):
+    """
+    Separa un DataFrame en dos subconjuntos: uno con columnas numéricas y otro con columnas categóricas.
+
+    Parámetros:
+    -----------
+    dataframe : pd.DataFrame
+        DataFrame a separar.
+
+    Retorna:
+    --------
+    tuple
+        Una tupla con dos elementos:
+            - El primer elemento es un DataFrame que contiene únicamente las columnas numéricas.
+            - El segundo elemento es un DataFrame que contiene únicamente las columnas categóricas (tipo objeto).
+
+    Ejemplo:
+    --------
+    df_numerico, df_categorico = separarar_df(dataframe)
+
+    Notas:
+    ------
+    - Las columnas numéricas se identifican con `select_dtypes(include=np.number)`.
+    - Las columnas categóricas se identifican con `select_dtypes(include="O")`.
+    """
+
     return dataframe.select_dtypes(include=np.number), dataframe.select_dtypes(include="O")
 
 def plot_numericas(dataframe,grafica_size = (15,10)):
+    """
+    Genera histogramas para visualizar la distribución de las variables numéricas en un DataFrame.
+
+    Parámetros:
+    -----------
+    dataframe : pd.DataFrame
+        DataFrame que contiene las columnas numéricas a graficar.
+    grafica_size : tuple, opcional
+        Tamaño de la figura para los gráficos generados, en formato (ancho, alto). Por defecto es (15, 10).
+
+    Retorna:
+    --------
+    None
+        No retorna ningún valor, pero muestra una figura con histogramas para cada columna numérica del DataFrame.
+
+    Notas:
+    ------
+    - Las columnas a graficar se toman directamente del DataFrame proporcionado.
+    - Si el número de columnas numéricas es impar, se elimina el último eje vacío para evitar espacios sin uso.
+    - Cada gráfico incluye un título con el nombre de la columna correspondiente.
+
+    Ejemplo:
+    --------
+    plot_numericas(
+        dataframe=df_numerico,
+        grafica_size=(12, 8)
+    )
+    """
+
     cols_numericas = dataframe.columns
     filas = math.ceil(len(cols_numericas)/2)
     fig, axes = plt.subplots(nrows= filas,ncols=2,figsize = grafica_size)
@@ -89,6 +143,39 @@ def plot_numericas(dataframe,grafica_size = (15,10)):
     plt.tight_layout()
 
 def plot_categoricas(dataframe, paleta="mako",grafica_size = (15,10)):
+    """
+    Genera gráficos de barras para visualizar la distribución de las variables categóricas en un DataFrame.
+
+    Parámetros:
+    -----------
+    dataframe : pd.DataFrame
+        DataFrame que contiene las columnas categóricas a graficar.
+    paleta : str, opcional
+        Paleta de colores para los gráficos. Por defecto es "mako".
+    grafica_size : tuple, opcional
+        Tamaño de la figura para los gráficos generados, en formato (ancho, alto). Por defecto es (15, 10).
+
+    Retorna:
+    --------
+    None
+        No retorna ningún valor, pero muestra una figura con gráficos de barras para cada columna categórica del DataFrame.
+
+    Notas:
+    ------
+    - Las columnas a graficar se toman directamente del DataFrame proporcionado.
+    - Las barras se ordenan por frecuencia descendente.
+    - Si el número de columnas categóricas es impar, se elimina el último eje vacío para evitar espacios sin uso.
+    - Cada gráfico incluye un título con el nombre de la columna correspondiente, y las etiquetas del eje X se rotan para mejorar la legibilidad.
+
+    Ejemplo:
+    --------
+    plot_categoricas(
+        dataframe=df_categorico,
+        paleta="viridis",
+        grafica_size=(12, 8)
+    )
+    """
+
     cols_categoricas = dataframe.columns
     filas = math.ceil(len(cols_categoricas)/2)
     fig, axes = plt.subplots(nrows= filas,ncols=2,figsize = grafica_size)
@@ -113,6 +200,42 @@ def plot_categoricas(dataframe, paleta="mako",grafica_size = (15,10)):
     
 
 def relacion_vr_categoricas(dataframe,variable_respuesta,paleta="mako",grafica_size = (15,10)):
+    """
+    Visualiza la relación entre una variable de respuesta y las variables categóricas de un DataFrame.
+
+    Parámetros:
+    -----------
+    dataframe : pd.DataFrame
+        DataFrame que contiene las variables categóricas y la variable de respuesta.
+    variable_respuesta : str
+        Nombre de la variable de respuesta, cuyo promedio se calculará para cada categoría.
+    paleta : str, opcional
+        Paleta de colores para los gráficos. Por defecto es "mako".
+    grafica_size : tuple, opcional
+        Tamaño de la figura para los gráficos generados, en formato (ancho, alto). Por defecto es (15, 10).
+
+    Retorna:
+    --------
+    None
+        No retorna ningún valor, pero muestra gráficos de barras para cada columna categórica, mostrando la media de la variable de respuesta.
+
+    Notas:
+    ------
+    - Las columnas categóricas se obtienen utilizando la función `separarar_df`.
+    - Los valores de la variable de respuesta se agrupan por categoría y se calcula su promedio.
+    - Los gráficos están ordenados por el valor promedio descendente de la variable de respuesta.
+    - Si el número de columnas categóricas es impar, se elimina el último eje vacío para evitar espacios sin uso.
+
+    Ejemplo:
+    --------
+    relacion_vr_categoricas(
+        dataframe=datos,
+        variable_respuesta="precio",
+        paleta="viridis",
+        grafica_size=(12, 8)
+    )
+    """
+
     df_cat = separarar_df(dataframe)[1]
     cols_categoricas = df_cat.columns
     filas = math.ceil(len(cols_categoricas)/2)
@@ -139,6 +262,42 @@ def relacion_vr_categoricas(dataframe,variable_respuesta,paleta="mako",grafica_s
     plt.tight_layout()
 
 def relacion_vr_numericas(dataframe,variable_respuesta,paleta="mako",grafica_size = (15,10)):
+    """
+    Visualiza la relación entre una variable de respuesta y las variables numéricas de un DataFrame.
+
+    Parámetros:
+    -----------
+    dataframe : pd.DataFrame
+        DataFrame que contiene las variables numéricas y la variable de respuesta.
+    variable_respuesta : str
+        Nombre de la variable de respuesta que se analizará en relación con las demás variables numéricas.
+    paleta : str, opcional
+        Paleta de colores para los gráficos. Por defecto es "mako".
+    grafica_size : tuple, opcional
+        Tamaño de la figura para los gráficos generados, en formato (ancho, alto). Por defecto es (15, 10).
+
+    Retorna:
+    --------
+    None
+        No retorna ningún valor, pero muestra un conjunto de diagramas de dispersión para cada columna numérica en relación con la variable de respuesta.
+
+    Notas:
+    ------
+    - Las columnas numéricas se obtienen utilizando la función `separarar_df`.
+    - Se omite la variable de respuesta (`variable_respuesta`) en los diagramas de dispersión.
+    - Cada gráfico incluye una relación bivariada entre una columna numérica y la variable de respuesta.
+    - Si el número de columnas numéricas es impar, se elimina el último eje vacío para evitar espacios sin uso.
+
+    Ejemplo:
+    --------
+    relacion_vr_numericas(
+        dataframe=datos,
+        variable_respuesta="precio",
+        paleta="viridis",
+        grafica_size=(12, 8)
+    )
+    """
+
     numericas = separarar_df(dataframe)[0]
     cols_numericas = numericas.columns
     filas = math.ceil(len(cols_numericas)/2)
@@ -166,6 +325,35 @@ def relacion_vr_numericas(dataframe,variable_respuesta,paleta="mako",grafica_siz
         pass
     
 def matriz_correlacion(dataframe, grafica_size=(10,7)):
+    """
+    Genera un mapa de calor para visualizar la matriz de correlación de las variables numéricas de un DataFrame.
+
+    Parámetros:
+    -----------
+    dataframe : pd.DataFrame
+        DataFrame que contiene las columnas numéricas para calcular la matriz de correlación.
+    grafica_size : tuple, opcional
+        Tamaño de la figura del mapa de calor, en formato (ancho, alto). Por defecto es (10, 7).
+
+    Retorna:
+    --------
+    None
+        No retorna ningún valor, pero muestra un mapa de calor con la matriz de correlación de las variables numéricas.
+
+    Notas:
+    ------
+    - La correlación se calcula únicamente para las columnas numéricas.
+    - Se aplica una máscara triangular superior para ocultar valores redundantes en el mapa de calor.
+    - Los valores de correlación están anotados en el mapa para facilitar su interpretación.
+
+    Ejemplo:
+    --------
+    matriz_correlacion(
+        dataframe=datos,
+        grafica_size=(12, 8)
+    )
+    """
+
     plt.figure(figsize=grafica_size)
     matriz_corr = dataframe.corr(numeric_only=True)
     mascara = np.triu(np.ones_like(matriz_corr,dtype = np.bool_))
@@ -176,6 +364,39 @@ def matriz_correlacion(dataframe, grafica_size=(10,7)):
                 mask = mascara)
     
 def detectar_outliers(dataframe,colorear="orange",grafica_size = (15,10)):
+    """
+    Detecta y visualiza valores atípicos (outliers) en las columnas numéricas de un DataFrame utilizando boxplots.
+
+    Parámetros:
+    -----------
+    dataframe : pd.DataFrame
+        DataFrame que contiene las variables numéricas a analizar.
+    colorear : str, opcional
+        Color de las cajas del boxplot. Por defecto es "orange".
+    grafica_size : tuple, opcional
+        Tamaño de la figura para los gráficos generados, en formato (ancho, alto). Por defecto es (15, 10).
+
+    Retorna:
+    --------
+    None
+        No retorna ningún valor, pero muestra una figura con boxplots para cada columna numérica del DataFrame.
+
+    Notas:
+    ------
+    - Las columnas numéricas se obtienen utilizando la función `separarar_df`.
+    - Los valores atípicos se muestran en rojo para facilitar su identificación.
+    - Si el número de columnas numéricas es impar, se elimina el último eje vacío para evitar espacios sin uso.
+    - Cada gráfico incluye un título que indica el nombre de la columna correspondiente.
+
+    Ejemplo:
+    --------
+    detectar_outliers(
+        dataframe=datos,
+        colorear="blue",
+        grafica_size=(12, 8)
+    )
+    """
+
     df_num = separarar_df(dataframe)[0]
     num_filas =  math.ceil(len(df_num.columns)/2)
 
@@ -198,9 +419,39 @@ def detectar_outliers(dataframe,colorear="orange",grafica_size = (15,10)):
 
     plt.tight_layout()
 
-
-# Esta me la tengo que ver para ver que funcione
 def diferencia_tras_rellenar_nulos(df_before, df_after):
+    """
+    Compara las estadísticas descriptivas de un DataFrame antes y después de rellenar valores nulos, mostrando los cambios en porcentaje.
+
+    Parámetros:
+    -----------
+    df_before : pd.DataFrame
+        DataFrame original, antes de realizar la operación de relleno de nulos.
+    df_after : pd.DataFrame
+        DataFrame modificado, después de realizar la operación de relleno de nulos.
+
+    Retorna:
+    --------
+    None
+        No retorna ningún valor, pero muestra:
+        - Estadísticas descriptivas antes de la operación (`df_before`).
+        - Estadísticas descriptivas después de la operación (`df_after`).
+        - Porcentaje de cambio entre ambos DataFrames.
+
+    Notas:
+    ------
+    - Las estadísticas incluyen métricas como media, mediana y desviación estándar, extraídas con `describe()`.
+    - Los cambios se calculan como porcentaje relativo entre `df_after` y `df_before`.
+    - Los valores NaN en la diferencia porcentual se rellenan con 0 para evitar inconsistencias en los resultados.
+
+    Ejemplo:
+    --------
+    diferencia_tras_rellenar_nulos(
+        df_before=datos_antes,
+        df_after=datos_despues
+    )
+    """
+
     # Obtener el describe de ambos DataFrames y solo media mediana y desviacion estándar
 
     describe_before = df_before.describe().T
