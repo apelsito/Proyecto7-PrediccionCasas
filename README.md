@@ -243,79 +243,160 @@ cd Proyecto7-PrediccionCasas
 - XGBoost fue el modelo más efectivo, con el mejor desempeño en términos de R² y RMSE.
 
 ---
-# 📊 Análisis de las Gráficas 📊
-## 1. 📈 Evolución Anual del Precio Promedio por Servicio (2019-2022)
-
-![Evolución Anual del Precio Promedio por Servicio](src/01_graficas/01_EvolucionAnualPorServicio.png)
+# 📊 Historial de Modelos y Resultados 📊
+## 1. 📈 Modelo
+![Evolución Anual del Precio Promedio por Servicio](src/01_Resultados_Modelos/Modelo1_Decision_Tree.png)
 
 ### Observaciones:
-- **Agua**💧: El precio promedio del agua se mantuvo estable entre 2019 y 2021 (1.57€ a 1.65€), con un aumento notable en 2022 a 1.80€. Este incremento, aunque moderado en comparación con otros servicios, impacta el coste de vida dado su carácter esencial.
-- **Combustible**⛽: Después de una bajada notoria en 2020 (1.22€) por la caída de la demanda durante la pandemia, los precios se dispararon en 2021 y 2022, alcanzando 1.87€ en 2022. La recuperación económica y la alta demanda global impulsaron estos aumentos, exacerbados por las restricciones en la oferta y las tensiones internacionales en el sector energético.
+- Modelo Inicial
 
 ---
 
-## 2. 📉 Variación Mensual del Precio Promedio por Servicio (2019-2022)
+## 2. 📉 Modelo 2
 
-![Variación Mensual del Precio Promedio por Servicio](src/01_graficas/03_VariaciónMensualPrecioPorServicio.png)
+![Variación Mensual del Precio Promedio por Servicio](src/01_Resultados_Modelos/Modelo2_Decision_Tree.png)
 
 ### Observaciones:
-- **Agua**💧: Mantiene una estabilidad considerable en su precio mensual hasta 2022. Este servicio esencial experimenta un aumento en el último año, probablemente relacionado con la inflación en el coste de mantenimiento y distribución.
-- **Combustibles**⛽: Muestran una gran variabilidad mensual, con aumentos significativos hacia finales de 2021 y 2022, vinculados con problemas de suministro y el encarecimiento de las materias primas como el petróleo.
+- Basado en el **Modelo 1**
+- Cambios Respecto Modelo 1:
+    - Eliminar columna district
+    - Eliminar has3DTour
+---
+
+## 3. ⚡ Modelo 3
+
+![Variación Mensual del Precio Promedio de Luz y Gas](src/01_Resultados_Modelos/Modelo3_Decision_Tree.png)
+
+### Observaciones:
+- Basado en el **Modelo 2**
+- Cambios Respecto Modelo 2:
+    - Eliminar hasPlan: No tiene porque afectar al precio
+    - Eliminar has360: No tiene porque afectar al precio
+    - Eliminar Province: Vamos a predecir sólo de madrid
+---
+
+## 4. 💡 Modelo 4
+
+![Evolución Mensual del Precio de la Luz](src/01_Resultados_Modelos/Modelo4_Decision_Tree.png)
+
+### Observaciones:
+- Basado en el **Modelo 3**
+- Cambios Respecto Modelo 3:
+    - Hemos categorizado los municipios por su clase economica
+        - clase alta
+        - clase media-alta
+        - clase media
+        - clase obrera
 
 ---
 
-## 3. ⚡ Variación Mensual del Precio Promedio de Luz y Gas (2019-2022)
+## 5. 🔥 Modelo 5
 
-![Variación Mensual del Precio Promedio de Luz y Gas](src/01_graficas/04_VariaciónMensualPrecioPorServicio.png)
+![Evolución Mensual del Precio del Gas](src/01_Resultados_Modelos/Modelo5_Decision_Tree.png)
 
 ### Observaciones:
-- **Luz**💡: Observamos un incremento sostenido en 2021, alcanzando máximos históricos a finales de ese año, y se estabiliza en niveles altos en 2022. Las causas incluyen la creciente demanda de gas natural (utilizado en muchas plantas de generación de electricidad) y el aumento de precios de los derechos de emisión de CO₂ en la Unión Europea, que afectaron el coste de generación.
-- **Gas**🔥: Los precios del gas se mantienen relativamente estables hasta principios de 2021, cuando comienzan a escalar significativamente, llegando a un máximo en octubre de 2022. Esta subida está directamente vinculada a la dependencia europea del gas natural ruso y a las interrupciones de suministro derivadas del conflicto en Ucrania y las sanciones impuestas.
+- Basado en el **Modelo 4**
+- Cambios Respecto Modelo 4:
+    - Hemos Eliminado las casas externas a madrid
+
 
 ---
 
-## 4. 💡 Evolución Mensual del Precio de la Luz
+## 6. ⛽ Modelo 6
 
-![Evolución Mensual del Precio de la Luz](src/01_graficas/05_EvolucionMensualPrecioLuz.png)
+![Evolución Mensual del Precio de los Combustibles](src/01_Resultados_Modelos/Modelo6_Decision_Tree.png)
 
 ### Observaciones:
-- La electricidad ha experimentado una volatilidad extrema, sobre todo a partir de 2021. Los precios subieron rápidamente debido a varios factores, entre ellos:
-  - **Aumento de la demanda de gas natural**: Al ser el gas una fuente primaria para la generación de electricidad en Europa, el aumento en sus precios encarece directamente la electricidad.
-  - **Mercado de CO₂**🌍: El sistema de comercio de emisiones de la UE incrementa el coste de emisión de gases contaminantes, lo cual encarece la generación de electricidad en plantas tradicionales.
-  - **Limitaciones de infraestructura**: La dependencia de fuentes renovables intermitentes como la energía eólica o solar, que no siempre pueden suplir la demanda, obliga a recurrir a plantas de energía más caras.
+- Basado en el **Modelo 5**
+- Cambios Respecto Modelo 5:
+    - Hemos Eliminado **municipality**: Es probable que este especificando demasiado, y que la distancia al centro defina ya mejor el precio
 
 ---
 
-## 5. 🔥 Evolución Mensual del Precio del Gas
+## 7. 💧 Modelo 7
 
-![Evolución Mensual del Precio del Gas](src/01_graficas/06_EvolucionPreciosGas.png)
-
-### Observaciones:
-- El precio del gas se ha disparado desde mediados de 2021, alcanzando picos a mediados de 2022. Los principales factores detrás de esta subida son:
-  - **Conflicto en Ucrania**: La guerra entre Rusia y Ucrania y las subsecuentes sanciones han afectado el suministro de gas a Europa, lo que generó escasez y un aumento de precios.
-  - **Alta demanda post-pandemia**📈: La recuperación económica global aumentó la demanda de gas, creando un desbalance entre oferta y demanda en un momento de limitación en los recursos.
-  - **Capacidad limitada de almacenamiento**: Europa no tenía suficiente capacidad de almacenamiento de gas para compensar la reducción en el suministro, lo cual exacerbó las subidas de precios.
-
----
-
-## 6. ⛽ Evolución Mensual del Precio de los Combustibles (Gasolina y Diésel)
-
-![Evolución Mensual del Precio de los Combustibles](src/01_graficas/07_EvolucionPreciosCombustible.png)
+![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo7_Decision_Tree.png)
 
 ### Observaciones:
-- Tanto la gasolina como el diésel muestran incrementos significativos a partir de mediados de 2021, alcanzando máximos en 2022. Estos incrementos se explican por:
-  - **Subida en el precio del crudo**: El petróleo, materia prima clave, se ha encarecido debido a la menor producción y a la incertidumbre geopolítica.
-  - **Crisis en la cadena de suministro**🛢️: Las dificultades logísticas globales y el aumento de los costes de transporte han impactado los precios.
-  - **Política energética global**🚢: Los intentos de transición hacia energías limpias han llevado a una reducción en inversiones en petróleo, limitando la capacidad de producción frente a una alta demanda.
+- Basado en el **Modelo 1**
+- Cambios Respecto Modelo 1:
+    - Gestionamos los nulos como en el Modelo 5
+    - Eliminar province
 
----
+## 8. Modelo 8
 
-## 7. 💧 Evolución Mensual del Precio del Agua
-
-![Evolución Mensual del Precio del Agua](src/01_graficas/08_EvolucionPrecioAgua.png)
+![Evolución Mensual del Precio de los Combustibles](src/01_Resultados_Modelos/Modelo8_Decision_Tree.png)
 
 ### Observaciones:
-- El precio del agua se ha mantenido estable, con un incremento modesto en 2022. A diferencia de los combustibles y la electricidad, el agua ha sido menos afectada por factores de mercado y geopolíticos, debido a su carácter local y su menor dependencia de los mercados globales.
+- Basado en el **Modelo 7**
+- Cambios Respecto Modelo 7:
+    - Eliminamos district
+    - Eliminamos has3DTour
+
+## 9. Modelo 9
+
+![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo9_Decision_Tree.png)
+
+### Observaciones:
+- Basado en el **Modelo 8**
+- Cambios Respecto Modelo 8:
+    - Eliminamos status
+
+## 10. Modelo 10
+
+![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo10_Decision_Tree.png)
+
+### Observaciones:
+- Basado en el **Modelo 9**
+- Cambios Respecto Modelo 9:
+    - Eliminamos floor
+
+## 11. Modelo 11
+
+![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo11_Decision_Tree.png)
+
+### Observaciones:
+- Basado en el **Modelo 9**
+- Cambios Respecto Modelo 9:
+    - Eliminamos distancia_centro   
+## 12. Modelo 12
+
+![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo12_Decision_Tree.png)
+
+### Observaciones:
+- Basado en el **Modelo 8**
+- Cambios Respecto Modelo 8:
+    - Eliminamos status
+
+## 13. Modelo 13
+
+![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo13_Decision_Tree.png)
+
+### Observaciones:
+- Basado en el **Modelo 8**
+- Cambios Respecto Modelo 8:
+    - Eliminamos status
+
+## 14. Modelo 14
+
+![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo14_Decision_Tree.png)
+
+### Observaciones:
+- Basado en el **Modelo 8**
+- Cambios Respecto Modelo 8:
+    - Eliminamos status
+
+## 15. Modelo 15
+
+![Evolución Mensual del Precio del Agua](src/01_Resultados_Modelos/Modelo15_Decision_Tree.png)
+
+### Observaciones:
+- Basado en el **Modelo 8**
+- Cambios Respecto Modelo 8:
+    - Eliminamos status
+
+
+
 
 # 📌 Conclusión
 
